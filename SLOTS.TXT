@@ -1,0 +1,536 @@
+There are times when retuning a harp, when it would be easier to replace the 
+reed with one of the desired pitch, rather than retune the existing reed. 
+This is a list of common harmonicas (mostly diatonic single reed and chromatic 
+harmonicas, plus a few others, not including models whose reedplates are spot 
+welded into place rather than riveted) and their slot lengths. Most makers use 
+only two sorts of reed plates for any model - a long slot plate for lower keys 
+(usually key of C and below) and a short slot plate for higher keys (usually 
+key of Db and higher). With a good collection of junked harps, you can often 
+find a reed of the right size, which is tuned to the pitch that you require, 
+or at least closer than the reed already in place. The measurements are to the 
+nearest 1/10th of a millimetre, which should be close enough to give you an 
+idea of which reeds are interchangeable. Bear in mind that they are measurements 
+of the slots, not the reeds and because of this, you might need to take into 
+account factors such as the placement of the rivet hole, etc. Remember, always 
+double check before fixing the new reed into place.
+
+
+
+DIATONIC SINGLE REED PLATES (SLOT LENGTHS IN mm)
+
+
+HOHNER MODULAR SERIES LONG SLOT PLATES
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  17.1  16.1  15.0  14.0  13.0  12.0  11.0  10.1   9.3   8.5
+WIDTH    2.2   2.2   2.2   2.2   2.1   2.1   2.1   2.0   2.0   2.0    
+
+
+HOHNER MODULAR SERIES MEDIUM SLOT PLATES
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  16.1  15.0  14.0  13.0  12.0  11.0  10.1   9.3   8.5   7.7
+WIDTH    2.2   2.2   2.2   2.1   2.1   2.1   2.0   2.0   2.0   1.9
+
+
+HOHNER MODULAR SERIES SHORT SLOT PLATES
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  15.0  14.0  13.0  12.0  11.0  10.1   9.3   8.5   7.7   7.0
+WIDTH    2.2   2.2   2.1   2.1   2.1   2.0   2.0   2.0   1.9   1.9
+
+
+
+HOHNER HANDMADE LONG SLOT PLATES
+
+SLOT #    1     2     3     4     5     6     7     8     9     10
+LENGTH  16.6  15.9  14.8  13.9  13.0  12.2  11.3  10.6   9.6    8.5
+WIDTH    2.05  2.05  2.05  2.05  2.05  1.9   1.9   1.9   1.9    1.9
+
+
+HOHNER HANDMADE SHORT SLOT PLATES
+
+SLOT #    1     2     3     4     5     6     7     8     9     10
+LENGTH  14.8  13.9  13.0  12.2  11.3  10.6   9.6   9.0   8.3    7.6
+WIDTH    2.05  2.05  2.05  1.9   1.9   1.9   1.9   1.9   1.9    1.9
+
+
+HOHNER 12/14 HOLE LONG SLOT PLATES
+
+SLOT #   1    2    3    4    5    6    7    8    9   10  11  12  13  14
+LENGTH 19.3 18.3 17.3 16.4 15.1 13.9 13.0 12.0 11.0 10.0 8.8 7.8 7.1 5.9
+WIDTH   2.1  2.1  2.1  2.1  2.1  2.1  2.1  1.9  1.9  1.9 1.9 1.9 1.9 1.9
+
+
+HOHNER 12/14 HOLE SHORT SLOT PLATES
+
+SLOT #   1    2    3    4    5    6    7    8    9   10  11  12  13  14
+LENGTH 17.3 16.4 15.1 13.9 13.0 12.0 11.0 10.0  8.8  7.8 7.1 5.9 5.2 5.2
+WIDTH   2.1  2.1  2.1  2.1  2.1  1.9  1.9  1.9  1.9  1.9 1.9 1.9 1.9 1.9
+
+
+HOHNER EDUCATOR I
+
+SLOT #   1    2    3    4    5    6    7    8    9   10   11  12
+LENGTH 18.4 17.3 17.3 16.4 15.1 13.9 13.9 12.0 11.0 10.0 10.0 7.8
+WIDTH   2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1 2.1  2.1 
+
+
+HOHNER CHINESE SERIES LONG SLOT
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  16.4  15.9  15.1  14.2  13.4  11.7  10.9  10.3   9.0   8.0
+WIDTH    2.15  2.15  2.15  2.15  2.15  2.15  2.15  2.15  1.65  1.65
+
+
+HOHNER CHINESE SERIES SHORT SLOT
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  15.9  15.1  14.2  13.4  11.7  10.9  10.3   9.0    8.0  7.0
+WIDTH    2.15  2.15  2.15  2.15  2.15  2.15  2.15  2.15  1.65  1.65
+
+
+HOHNER PICCOLO/VEST POCKET HARP
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  11.0  10.6  10.0   9.6   9.0   8.8   8.5   7.8   6.6   5.9
+WIDTH    2.1   2.1   2.1   1.9   1.9   1.9   1.9   1.9   1.9   1.9
+
+
+HOHNER LITTLE LADY
+
+SLOT #    1    2    3    4
+LENGTH   7.0  6.6  6.4  6.1
+WIDTH    1.9  1.9  1.9  1.9
+
+
+
+TOMBO LONG SLOT PLATES
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  16.1  15.3  13.8  12.9  12.1  11.3  10.4   9.7   8.8   8.0
+WIDTH    2.2   2.2   2.1   2.1   2.1   2.1   1.85  1.85  1.85  1.85
+
+
+TOMBO SHORT SLOT PLATES
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  15.3  13.8  12.9  12.1  11.3  10.4   9.7   8.8   8.0   7.2
+WIDTH    2.2   2.1   2.1   2.1   2.1   1.85  1.85  1.85  1.85  1.85
+
+
+TOMBO OSKAMONICA
+
+SLOT #    1     2     3     4
+LENGTH   6.8   6.4   6.2   6.0
+WIDTH    1.85  1.85  1.85  1.8
+
+
+
+HUANG/SUZUKI FOLKMASTER (LONG SLOT?) PLATES
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  16.1  15.7  14.9  14.1  13.3  11.6  10.8  10.1   8.7   7.7
+WIDTH    2.15  2.15  2.15  2.15  2.15  2.15  2.15  2.15  1.65  1.65
+
+
+
+SEYDEL NARROW MENSUR LONG SLOT PLATES
+
+SLOT #    1     2     3     4     5    6      7     8     9    10
+LENGTH  16.6  15.6  14.6  13.6  12.6  12.2  11.2  10.1   9.1   8.1
+WIDTH    2.05  2.05  2.05  2.05  2.05  1.7   1.7   1.7   1.7   1.7
+
+
+SEYDEL NARROW MENSUR SHORT SLOT PLATES
+
+SLOT #    1     2     3     4     5    6      7     8     9    10
+LENGTH  14.5  13.5  12.6  11.5  10.4   9.4   8.4   7.4   7.0   6.5
+WIDTH    2.05  2.05  2.05  2.05  1.7   1.7   1.7   1.7   1.7   1.7
+
+
+SEYDEL, WELTMEISTER, BUSHMAN WIDE MENSUR LONG SLOT PLATES
+
+SLOT #    1     2     3     4     5    6      7     8     9    10
+LENGTH  16.6  15.6  14.6  13.6  12.6  12.2  11.2  10.1   9.1   8.1
+WIDTH    2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05 
+
+
+SEYDEL, WELTMEISTER, BUSHMAN WIDE MENSUR SHORT SLOT PLATES
+
+SLOT #    1     2     3     4     5    6      7     8     9    10
+LENGTH  14.5  13.5  12.6  11.5  10.4   9.4   8.4   7.4   7.0   6.5
+WIDTH    2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05
+
+
+HAMMOND/SUZUKI PROMASTER PLATES
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  16.0  15.0  14.0  13.8  13.0  12.0  11.0  10.0   9.0   8.0
+WIDTH    2.2   2.2   2.2   2.2   2.15  2.15  2.15  2.15  2.15  2.15
+
+
+SUZUKI EASY RIDER
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  14.9  14.7  14.4  13.9  13.2  12.4  11.5   9.8   9.2   8.2
+WIDTH    2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   1.7   1.7
+
+
+SUZUKI METAL 5
+
+SLOT #    1     2     3     4     5
+LENGTH   6.8   6.8   6.5   6.3   5.9
+WIDTH    1.85  1.85  1.85  1.85  1.85
+
+
+
+KRATT (LONG SLOT?)
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  16.7  16.0  14.8  14.0  13.1  12.3  11.4  10.6   9.7   8.7
+WIDTH    2.05  2.05  2.05  2.05  2.05  1.85  1.85  1.85  1.85  1.85
+
+
+
+THORENS (LONG SLOT?)
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  17.0  16.0  15.0  14.0  12.3  13.1  11.4  10.6   9.7   8.7
+WIDTH    2.1   2.1   2.1   2.1   2.1   1.9   1.9   1.9   1.9   1.9
+
+
+
+HERING LONG SLOT
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  16.6  15.9  14.7  14.1  13.0  12.3  11.3  10.6   9.6   8.5
+WIDTH    2.05  2.05  2.05  2.05  2.05  2.05  1.75  1.75  1.75  1.75
+
+
+HERING MEDIUM SLOT
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  15.9  14.7  14.1  13.0  12.3  11.3  10.6   9.6    8.5  7.7
+WIDTH    2.05  2.05  2.05  2.05  2.05  1.75  1.75  1.75  1.75  1.75
+
+
+HERING SHORT SLOT
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  14.7  14.1  13.0  12.3  11.3  10.6   9.6   8.5   7.7   6.8
+WIDTH    2.05  2.05  2.05  2.05  1.75  1.75  1.75  1.75  1.75  1.75
+
+
+HERING MASTER COUNTRY, MASTER SOLO
+
+SLOT #   1     2     3     4     5     6     7     8     9    10    11    12
+LENGTH 16.6  15.9  14.7  14.1  13.0  12.3  11.3  10.6   9.6   8.5   7.7   6.8
+WIDTH   2.05  2.05  2.05  2.05  2.05  2.05  1.75  1.75  1.75  1.75  1.75  1.75
+
+
+HERING RHYTHM BLUES
+
+SLOT #   1     2     3     4     5     6     7     8     9    10   11   12
+LENGTH 20.1  19.3  18.5  17.5  16.4  15.2  14.0  13.0  12.0  11.0 10.0  9.0
+WIDTH   2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05 2.05 2.05  
+
+
+HERING MINI
+
+SLOT #    1     2     3     4
+LENGTH   7.0   6.6   6.2   5.9
+WIDTH    2.1   2.1   2.1   2.1
+
+
+
+HERO 12-HOLE
+
+SLOT #    1    2    3    4    5    6    7    8    9    10   11   12
+LENGTH  16.8 16.5 16.1 15.1 14.3 13.4 11.8 10.9 10.4   9.1  8.0  7.0
+WIDTH    2.15 2.15 2.15 2.15 2.15 2.15 2.15 2.15 2.15  1.65 1.65 1.65
+
+
+
+SWAN, PLANETONE, ETC. LONG SLOT
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  16.5  16.0  15.1  14.2  13.4  11.8  11.0  10.3   9.0   8.0
+WIDTH    2.15  2.15  2.15  2.15  2.15  2.15  2.15  2.15  1.85  1.85
+
+
+SWAN, PLANETONE, ETC. SHORT SLOT
+
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  16.0  15.4  14.5  13.4  12.4  11.4  10.1   9.3   8.3   7.1
+WIDTH    2.15  2.15  2.15  2.15  2.15  2.15  2.15  2.15  1.75  1.75
+
+
+SWAN, BLUE DANUBE, PLANETONE, ETC. 16 HOLE
+
+SLOT #  1     2     3     4     5     6     7     8     9    10   11   12   13   14   15   16
+LGTH  19.3  18.9  18.4  17.8  16.7  16.0  15.7  14.8  13.9  12.9 11.9 10.9  9.9  8.7  7.6  6.9
+WIDTH  2.35  2.35  2.35  2.35  2.1   2.1   2.1   2.1   2.1   2.1  2.1  2.1  2.1  1.75 1.75 1.75 
+
+
+
+
+
+CHROMATIC REED PLATES
+
+
+OLDER HOHNER LONG SLOT CHROMATIC PLATES
+
+SLOT #  1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24
+LENGTH 19.3 18.3 17.3 16.3 15.1  13.9  13.0  12.0  11.0  10.0   8.8   7.8
+WIDTH   2.1  2.1  2.1  2.1  2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1
+
+
+NEWER HOHNER LONG SLOT CHROMATIC PLATES
+
+SLOT #  1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24
+LENGTH 19.3 18.3 17.3 16.3 15.1  13.9  13.0  12.0  11.0  10.0   8.8   7.8
+WIDTH   2.1  2.1  2.1  2.1  2.1   2.1   2.1   1.9   1.9   1.9   1.9   1.9
+
+
+HOHNER MEDIUM SLOT CHROMATIC PLATES
+
+SLOT #  1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24
+LENGTH 18.3 17.3 16.3 15.1 13.9  13.0  12.0  11.0  10.0   8.8   7.8   7.1
+WIDTH   2.1  2.1  2.1  2.1  2.1   2.1   2.1   2.1   2.1   2.1   2.1   1.9
+
+
+OLDER HOHNER SHORT SLOT CHROMATIC PLATES
+
+SLOT #  1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24
+LENGTH 17.3 16.3 15.1 13.9 13.0  12.0  11.0  10.0   8.8   7.8   7.1   5.9
+WIDTH   2.1  2.1  2.1  2.1  2.1   2.1   2.1   2.1   2.1   2.1   1.9   1.9
+
+
+NEWER HOHNER SHORT SLOT CHROMATIC PLATES
+
+SLOT #  1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24
+LENGTH 17.3 16.3 15.1 13.9 13.0  12.0  11.0  10.0   8.8   7.8   7.1   5.9
+WIDTH   2.1  2.1  2.1  2.1  2.1   1.9   1.9   1.9   1.9   1.9   1.9   1.9 
+
+
+
+OLDER HOHNER 64 CHROMATIC PLATES
+
+SLOT # 1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24 25/26 27/28 29/30 31/32 
+LGTH  22.0 20.9 20.1 19.3 18.3  17.3  16.3  15.1  13.9  13.0  12.0  11.0  10.0   8.8   7.8   7.1
+WIDTH  2.1  2.1  2.1  2.1  2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   1.9
+
+
+NEWER HOHNER 64 CHROMATIC PLATES
+
+SLOT # 1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24 25/26 27/28 29/30 31/32 
+LGTH  22.0 20.9 20.1 19.3 18.3  17.3  16.3  15.1  13.9  13.0  12.0  11.0  10.0   8.8   7.8   7.1
+WIDTH  2.1  2.1  2.1  2.1  2.1   2.1   2.1   2.1   2.1   2.1   1.9   1.9   1.9   1.9   1.9   1.9
+
+
+
+HOHNER CBH 2016 PLATES (NOTE: SOME CBH USE STANDARD HOHNER 64 SLOT LENGTHS)
+
+SLOT # 1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24 25/26 27/28 29/30 31/32
+LGTH  22.0 20.9 20.1 19.3 19.3  18.3  17.3  16.3  15.1  13.9  13.0  12.0  11.0  10.0   8.8   7.8
+WIDTH  2.1  2.1  2.1  2.1  2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1
+
+
+
+SEYDEL CHROMATIC DELUXE
+
+SLOT #  1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24
+LENGTH 18.1 17.5 16.4 15.4 14.4  13.4  12.4  11.4  10.4   9.4   8.4   7.4
+WIDTH   2.05 2.05 2.05 2.05 2.05  2.05  2.05  1.85  1.85  1.85  1.65  1.65
+
+
+
+TOMBO S-50, TOMBO UNICA FORMAL
+
+SLOT #  1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17  18  19  20  21  22  
+LGTH  15.2 15.2 15.2 15.0 15.0 14.3 13.6 13.6 12.9 12.9 12.3 12.3 11.6 10.9 10.9 10.3 10.3 9.6 9.6 8.9 8.9 8.9
+WIDTH  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  2.1  
+
+
+
+
+LARK/HUANG/SUZUKI (CHINESE MADE) CHROMATIC PLATES
+
+SLOT # 1/2  3/4  5/6  7/8 9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24
+LNGTH 16.7 16.4 15.9 15.1 14.2 13.4  11.7  10.9  10.3   8.9   7.9   6.9
+WIDTH  2.0  2.0  2.0  2.0  2.0  2.0   2.0   2.0   2.0   1.65  1.65  1.65
+
+
+
+SWAN, PLANETONE, ETC 12-HOLE CHROMATIC PLATES
+
+SLOT # 1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24  
+LGTH  19.5  18.4  17.4  16.4  15.2  13.9  13.2  12.1  10.1   8.7   7.6   6.9
+WIDTH  2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   1.75  1.75  1.75  
+
+
+SWAN, PLANETONE, ETC 16-HOLE CHROMATIC PLATES
+
+SLOT # 1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24 25/26 27/28 29/30 31/32 
+LGTH  22.0 21.9 22.2 19.5 19.5  18.4  17.4  16.4  15.2  13.9  13.2  12.1  10.1   8.7   7.6   6.9
+WIDTH  2.15 2.15 2.1  2.1  2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   2.1   1.75  1.75  1.75  
+
+
+
+HERING 10-HOLE SHORT SLOT CHROMATIC PLATES
+
+SLOT # 1/2   3/4   5/6   7/8   9/10 11/12 13/14 15/16 17/18 19/20
+LGTH  16.4  15.2  14.0  13.0  12.0  11.0  10.0   9.0   8.0   8.0
+WIDTH  2.05  2.05 2.05   2.05  2.05  2.05  2.05  2.05  2.05  1.75
+
+
+HERING MEDIUM-SHORT SLOT CHROMATIC PLATES
+
+SLOT # 1/2   3/4  5/6   7/8   9/10 11/12 13/14 15/16 17/18 19/20 21/21 23/24
+LGTH  18.5  17.5 16.4  15.2  14.0  13.0  12.0  11.0  10.0   9.0   8.0   8.0
+WIDTH  2.05  2.05 2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05
+
+
+HERING MEDIUM-LONG SLOT CHROMATIC PLATES
+
+SLOT # 1/2   3/4  5/6   7/8   9/10 11/12 13/14 15/16 17/18 19/20 21/21 23/24
+LGTH  19.3  18.5  17.5 16.4  15.2  14.0  13.0  12.0  11.0  10.0   9.0   8.0   
+WIDTH  2.05  2.05 2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05
+
+
+HERING LONG SLOT CHROMATIC PLATES
+
+SLOT #  1/2  3/4  5/6  7/8 9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24
+LENGTH 20.1 19.3 18.5 17.5 16.4 15.2  14.0  13.0  12.0  11.0  10.0   9.0
+WIDTH   2.05 2.05 2.05 2.05 2.05 2.05  2.05  2.05  2.05  2.05  2.05  2.05  
+
+
+HERING 64 CHROMATIC PLATES
+
+SLOT # 1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24 25/26 27/28 29/30 31/32 
+LGTH  22.0 21.0 20.1 19.3 18.5  17.5  16.4  15.2  14.0  13.0  12.0  11.0  10.0   9.0   8.0   8.0
+WIDTH  2.05 2.05 2.05 2.05 2.05 2.05  2.05   2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05  1.75
+
+
+
+
+ASSORTED REEDPLATES
+
+
+HOHNER CHROMATICA 261 TOP PLATE
+
+SLOT # 1   2   3   4   5   6   7   8   9  10  11  12  13   14   15   16   17   18   19   20   21   22   23   24   25   26   27   28   29   30   31   32   33   34   35
+LGTH  22  22  22  22  22  22  22  22  20  20  20  20 18.5 18.5 18.5 18.5 17.0 17.0 17.0 17.0 15.7 15.7 15.7 14.0 14.0 14.0 14.0 13.0 13.0 13.0 13.0 11.7 11.7 11.7 10.5 
+WIDTH 2.8 2.8 2.8 2.8 2.8 2.8 2.8 2.8 2.8 2.8 2.8 2.8 2.8  2.8  2.8  2.8  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3 2.05 2.05 2.05 2.05 
+
+
+HOHNER CHROMATICA 261 BOTTOM PLATE
+
+SLOT # 1   2    3    4    5    6    7    8    9    10   11   12   13   14   15   16   17   18   19   20   21   22   23   24   25  26  27  28  29  30  31  32  33  34  35
+LGTH 18.5 18.5 18.5 18.5 17.0 17.0 17.0 17.0 15.7 15.7 15.7 14.0 14.0 14.0 14.0 13.0 13.0 13.0 13.0 11.7 11.7 11.7 10.5 10.5 10.5 9.4 9.4 9.4 8.7 8.7 8.7 7.8 7.8 7.8 7.8
+WIDTH 2.8  2.8  2.8  2.8  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3 2.05 2.05 2.05 2.05 2.05 2.05 2.05 2.05 2.05 1.85 1.85 2.85 2.85 1.85
+
+
+HOHNER CHROMATICA 262/263
+
+SLOT # 1   2   3    4    5    6    7    8    9   10   11   12   13   14  15   16   17   18   19   20   21   22   23   24   25   26   27  28   29   30   31   32   33   34   35
+LGTH  20  20 18.5 18.5 18.5 18.5 17.0 17.0 17.0 17.0 15.7 15.7 15.7 14.0 14.0 14.0 14.0 13.0 13.0 13.0 13.0 11.7 11.7 11.7 10.5 10.5 10.5 9.4  9.4  9.4  8.7  8.7  8.7  7.8  7.8
+WIDTH 2.8 2.8 2.8  2.8  2.8  2.8  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3  2.3 2.05 2.05 2.05 2.05 2.05 2.05 2.05 2.05 2.05 1.85 1.85 1.85 1.85 1.85
+ 
+
+HOHNER CHROMATICA 266
+
+SLOT  # 1    2    3    4    5    6    7    8    9   10   11   12   13   14 
+LGTH  25.1 25.1 25.1 25.1 25.1 25.1 25.1 25.1 25.1 25.1 25.1 25.1 25.1 25.1
+WIDTH  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4
+
+
+HOHNER POLYPHONIA V
+
+SLOT #  1     2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17   18   19   20   21   22   23   24   25 
+LGTH  13.1  13.1 12.3 12.3 11.4 11.4 11.4 11.4 11.4 10.2 10.2  9.7  9.7  9.7  9.1  9.1  8.5  8.5  8.5  8.5  8.5  7.7  7.7  7.7  7.7
+WIDTH  2.05  2.05 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85 1.85
+
+
+HOHNER POLYPHONIA VII
+
+SLOT #  1     2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17   18   19   20   21   22   23   24   25 
+LGTH   25.1 25.1 25.1 25.1 25.1 25.1 25.1 25.1 25.1 25.1 25.1 23.7 23.7 23.7 23.7 23.7 23.7 23.7 21.8 21.8 21.8 21.8 21.8 21.8 21.8 
+WIDTH   3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  2.8  2.8  2.8  2.8  2.8  2.8  2.8 
+
+ 
+HOHNER POLYPHONIA VIII
+
+CHORD SLOT #   1    2    3      BASS NOTES
+      LENGTH 17.5 16.5 15.2     LGTH 19.5
+      WIDTH   2.1  2.1  2.1     WIDTH 2.3         
+
+
+HOHNER VINETA 4
+
+HIGHER CHORDS                          LOWER CHORDS                            BASS NOTES
+SLOT #   1    2    3    4    5    6   SLOT #   1    2    3    4    5    6          LGTH   19.5
+LGTH   16.5 15.2 14.1 13.2 12.0 11.0  LGTH   17.5 16.5 15.2 14.1 13.2 12.0         WIDTH   2.3
+WIDTH   2.1  2.1  2.1  2.1  1.85 1.85 WIDTH   2.1  2.1  2.1  2.1  2.1  1.85
+
+
+HOHNER AKKORDA/48 CHORD 
+
+HIGHER CHORDS                          LOWER CHORDS 
+SLOT #   1    2    3    4              SLOT #   1    2    3    4  
+LGTH   16.5 15.2 14.1 13.2             LGTH   19.5  18.4 17.5 16.5 
+WIDTH   2.05 2.05 2.05 2.05            WIDTH   2.05 2.05 2.05 2.05
+
+
+HOHNER BASS
+
+LOWER NOTES
+SLOT #  1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   
+LGTH  37.0 37.0 37.0 37.0 35.0 35.0 33.0 33.0 31.1 31.1 29.3 29.3 27.3 27.3 25.5
+WIDTH  4.3  4.3  4.3  4.3  4.3  4.3  4.3  4.3  3.4  3.4  3.4  3.4  3.4  3.4  3.4
+
+UPPER NOTES
+SLOT #  1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   
+LGTH  33.0 33.0 33.0 33.0 31.1 31.1 29.3 29.3 27.3 27.3 25.5 25.5 23.7 23.7 21.8
+WIDTH  4.3  4.3  4.3  4.3  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  3.4  2.8
+
+
+HOHNER HARMONETTA
+
+SLOT #  1/2  3/4  5/6  7/8 9/10 11/12 13/14 15/16 17/18
+LGTH   22.0 20.9 20.1 18.3 17.3 16.3  13.9  13.0  12.0
+WIDTH   2.1  2.1  2.1  2.1  2.1  2.1   2.1   2.1   2.1  
+
+
+TYPICAL HOHNER TREMOLO HARP
+
+SLOT # 1/2  3/4  5/6  7/8  9/10 11/12 13/14 15/16 17/18 19/20 21/22 23/24
+LGTH  14.7 14.2 13.7 13.1 12.7  11.6  11.1  10.6  10.0   9.4   8.8   8.3
+WIDTH  2.05 2.05 2.05 2.05 2.05  2.05  2.05  2.05  2.05  2.05  2.05  2.05 
+
+
+HOHNER AUTO-VALVE-HARP/MARINE BAND FULL CONCERT/XB-40
+
+LONG SLOT
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  19.3  18.3  17.3  16.3  15.1  13.9  13.0  12.0  11.0  10.0 
+WIDTH    2.1   2.1   2.1   2.1   2.1   2.1   2.1   1.9   1.9   1.9
+
+MEDIUM/LONG SLOT
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  17.3  16.3  15.1  13.9  13.0  12.0  11.0  10.0   8.8   7.8
+WIDTH    2.1   2.1   2.1   2.1   2.1   1.9   1.9   1.9   1.9   1.9
+
+MEDIUM/SHORT SLOT
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  16.3  15.1  13.9  13.0  12.0  11.0  10.0   8.8   7.8   7.1
+WIDTH    2.1   2.1   2.1   2.1   1.9   1.9   1.9   1.9   1.9   1.9
+
+SHORT SLOT
+SLOT #    1     2     3     4     5     6     7     8     9    10
+LENGTH  13.9  13.0  12.0  11.0  10.0   8.8   7.8   7.1   5.9   5.9
+WIDTH    2.1   2.1   1.9   1.9   1.9   1.9   1.9   1.9   1.9   1.9
+
+
+

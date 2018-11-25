@@ -1,0 +1,603 @@
+TUNINGS FOR CHROMATIC HARMONICA                                                             
+(SEE ALSO 12/14-HOLE TUNINGS)
+
+12.1 - STANDARD SOLO-TUNED CHROMATIC (See also 5.3)
+
+BLOW SLIDE IN  C#  E#  G#  C#  C#  E#  G#  C#  C# E#  G#  C#
+BLOW SLIDE OUT C   E   G   C   C   E   G   C   C   E   G   C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  D#  F#  A#  B#  D#  F#  A#  B#  D#  F#  A#  D
+DRAW SLIDE OUT D   F   A   B   D   F   A   B   D   F   A   B
+
+
+12.1a - IRISH TUNING
+
+BLOW SLIDE IN  B   D#  F#  B   B   D#  F#  B   B  D#  F#   B   
+BLOW SLIDE OUT C   E   G   C   C   E   G   C   C  E   G    C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  C#  E   G#  Bb  C#  E   G#  Bb  C# E   G#  Bb
+DRAW SLIDE OUT D   F   A   B   D   F   A   B   D  F   A    B
+
+
+12.1b - ALTERED CHROMATIC (Slide raises each not to next scale tone - 
+C major in this case, but can be applied to other keys and/ or tunings)
+
+BLOW SLIDE IN  D  F  A  D  D  F  A  D  D   F   A   D
+BLOW SLIDE OUT C  E  G  C  C  E  G  C  C   E   G   C
+HOLE NUMBER    1  2  3  4  5  6  7  8  9  10  11  12
+DRAW SLIDE IN  E  G  B  C  E  G  B  C  E   G   B   C
+DRAW SLIDE OUT D  F  A  B  D  F  A  B  D   F   A   B
+
+
+12.1c - INVERSION OF 12.1
+
+BLOW SLIDE IN  C#  F#  F#  A#  C#  F#  F#  A#  C#  F#  F#  A#
+BLOW SLIDE OUT C   F   F   A   C   F   F   A   C   F   F   A
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  D#  F   G#  B   D#  F   G#  B   D#  F   G#  B   
+DRAW SLIDE OUT D   E   G   Bb  D   E   G   Bb  D   E   G   Bb
+
+
+12.1d - VARIATION OF 12.1 (Andrew Chakonsee)
+
+BLOW SLIDE IN  C#  F#  G#  C#  D#  F#  G#  C#  D#  F#  G#  E
+BLOW SLIDE OUT C   E   G   C   C   E   G   C   C   E   G   C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  D#  F#  A#  C#  D#  F#  A#  C#  D#  F#  A#  D
+DRAW SLIDE OUT D   F   A   B   D   F   A   B   D   F   A   B
+
+
+12.1e - HERING 8148 (BLUES 48)
+   
+BLOW SLIDE IN  G#  C#  C#  F   G#  C#  F   G#  C#  F   G#  C#
+BLOW SLIDE OUT G   C   C   E   G   C   E   G   C   E   G   C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  A#  C   D#  G#  C   D#  F#  A#  C   D#  F#  A#
+DRAW SLIDE OUT A   B   D   G   B   D   F   A   B   D   F   A 
+
+
+12.1g - CLASSICAL TUNING (German Patent 9404910)
+   
+BLOW SLIDE IN  C#  E#  G#  C   C#  E#  G#  C#  C# E#  G#   C
+BLOW SLIDE OUT C   E   G   B   C   E   G   B   C   E   G   B
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  D#  F#  A#  C#  D#  F#  A#  C#  D#  F#  A#  C#
+DRAW SLIDE OUT D   F   A   C   D   F   A   C   D   F   A   C
+ 
+
+12.1h - NEW CHROMATIC TUNING (E.A. Smith - see 12.1g and 12.1a)
+   
+BLOW SLIDE IN  B   D   F#  A   B   D   F#  A   B   D   F#  A
+BLOW SLIDE OUT C   E   G   B   C   E   G   B   C   E   G   B  
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  C#  Eb  G#  Bb  C#  Eb  G#  Bb  C#  Eb  G#  Bb  
+DRAW SLIDE OUT D   F   A   C   D   F   A   C   D   F   A   C  
+
+    
+
+12.2 - "RICHTER" CHROMATIC (Koch or Slide Harp, or old "regular tuning" 260) 
+(See also 1.1)
+
+BLOW SLIDE IN  C#  E#  G#  C#  E#  G#  C#  E#  G#  C#     
+BLOW SLIDE OUT C   E   G   C   E   G   C   E   G   C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10
+DRAW SLIDE IN  D#  G#  B#  D#  F#  A#  B#  D#  F#  A#
+DRAW SLIDE OUT D   G   B   D   F   A   B   D   F   A
+
+
+12.2a - STANDARD MAJOR/HARMONIC MINOR (Sold in 20s/30s as Minor-tuned 
+Chromonica) (See also 1.1; 2.3)
+
+BLOW SLIDE IN   A   C   E   A   C   E   A   C   E   A
+BLOW SLIDE OUT  C   E   G   C   E   G   C   E   G   C
+HOLE NUMBER     1   2   3   4   5   6   7   8   9   10
+DRAW SLIDE IN   B   E   G#  B   D   F   G#  B   D   F
+DRAW SLIDE OUT  D   G   B   D   F   A   B   D   F   A
+
+
+12.2b - VARIATION OF 12.2a 
+
+BLOW SLIDE IN   C   E   A   C   E   A   C   E   A   C
+BLOW SLIDE OUT  C   E   G   C   E   G   C   E   G   C
+HOLE NUMBER     1   2   3   4   5   6   7   8   9   10
+DRAW SLIDE IN   E   G#  B   D   F   G#  B   D   F   A
+DRAW SLIDE OUT  D   G   B   D   F   A   B   D   F   A
+
+
+
+12.2c - PAUL ORTA TUNING
+
+BLOW SLIDE IN  G   B   D   G   B   D   G   B   D   G
+BLOW SLIDE OUT C   E   G   C   E   G   C   E   G   C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10
+DRAW SLIDE IN  A   D   F#  A   C   E   F#  A   C   E
+DRAW SLIDE OUT D   G   B   D   F   A   B   D   F   A
+
+
+12.2d - BANDMASTER CHROMATIC (A Similar Tuning Was Used On Older 
+Hohner 260, Starting With E In Hole 1 And Ending With C In Hole 10)
+
+BLOW SLIDE IN   C#  E#  G#  C#  C#  E#  G#  C#  E#  G#
+BLOW SLIDE OUT  C   E   G   C   C   E   G   C   E   G
+HOLE NUMBER     1   2   3   4   5   6   7   8   9   10 
+DRAW SLIDE IN   D#  F#  A#  B#  D#  F#  A#  B#  D#  F#
+DRAW SLIDE OUT  D   F   A   B   D   F   A   B   D   F
+
+
+12.2e - CHICAGO DOUBLE-CROSS (Randy Goodhew)
+
+BLOW SLIDE IN  B   Eb  Gb  B   Eb  Gb  B   Eb  Gb  B 
+BLOW SLIDE OUT C   E   G   C   E   G   C   E   G   C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10
+DRAW SLIDE IN  Db  Gb  Bb  Db  Gb  Bb  Db  E   Ab  Bb
+DRAW SLIDE OUT D   G   B   D   G   B   D   F   A   B
+
+
+12.2f - CHICAGO DOUBLE-CROSS (Randy Goodhew - 1998 modification)
+
+BLOW SLIDE IN  B   Eb  Gb  B   Eb  Gb  B   Eb  Gb  B 
+BLOW SLIDE OUT C   E   G   C   E   G   C   E   G   C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10
+DRAW SLIDE IN  Db  Gb  Bb  Db  Gb  Bb  Db  E   Ab  A
+DRAW SLIDE OUT D   G   B   D   G   B   D   F   A   Bb
+
+
+12.2g - NASHVILLE DOUBLE-CROSS (Randy Goodhew)
+
+BLOW SLIDE IN  B   Eb  Gb  B   Eb  Gb  B   Eb  Gb  B 
+BLOW SLIDE OUT C   E   G   C   E   G   C   E   G   C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10
+DRAW SLIDE IN  Db  Gb  Bb  Db  Gb  Bb  Db  F   Ab  Bb
+DRAW SLIDE OUT D   G   B   D   G   B   D   F#  A   B
+
+
+12.2h - QUILL TUNING (Mike Will)
+
+BLOW SLIDE IN  Eb  F   A   C   F   Ab  C   F   Ab  Db
+BLOW SLIDE OUT C   E   G   C   E   G   C   E   G   C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10
+DRAW SLIDE IN  Eb  G   C   D   F#  A   C   Eb  G   Bb
+DRAW SLIDE OUT D   G   B   D   F   A   B   D   F   A
+
+
+12.2i - PAUL PIPER TUNING
+
+BLOW SLIDE IN  B   Eb  F#  Ab  Eb  F#  A   Eb  F#  A   B   Eb
+BLOW SLIDE OUT C   E   A   C   E   G   C   E   G  Bb   C   E
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  Db  F   Bb  Db  F   Bb  Db  F#  Ab  Bb  Db  F
+DRAW SLIDE OUT D   G   B   D   G   B   D   F   A   B   D   F#
+
+
+12.2j - LOST BOY TUNING (Steve Jennings)
+
+BLOW SLIDE IN  C#  E#  G#  C#  E#  G#  C#  E#  G#  C#     
+BLOW SLIDE OUT C   E   A   C   E   G   C   E   G   C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10
+DRAW SLIDE IN  D#  F#  A#  D#  G   A#  B#  D#  F#  A#
+DRAW SLIDE OUT D   G   B   D   F#  A   B   D   F#  A
+
+
+
+12.3 - BOOGIE TUNING (John Infande)
+
+BLOW SLIDE IN  C   Eb  G   A   C   Eb  G   A   C   Eb  G   A
+BLOW SLIDE OUT C   E   G   A   C   E   G   A   C   E   G   A
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  Eb  F   A   C   Eb  F   A   C   Eb  F   A   C
+DRAW SLIDE OUT D   F   G   B   D   F   G   B   D   F   G   B
+
+
+12.3a - CHORDOMONICA TUNING (C.B. Huang)
+
+BLOW SLIDE IN  C   F   A   C   C   F   A   C   C   F   A   C
+BLOW SLIDE OUT C   E   G   C   C   E   G   C   C   E   G   C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  Eb  F#  A   C   Eb  F#  A   C   Eb  F#  A   C
+DRAW SLIDE OUT  D  F   G   B   D   F   G   B    D  F   G   B
+
+
+12.3b - MISSIN/ERLICH TUNING (Designed for triads in 5-limit Just Intonation)
+
+BLOW SLIDE IN  C   E   G   A   C   E   G   A   C   E   G   A  
+BLOW SLIDE OUT C   D   F   A   C   D   F   A   C   D   F   A    
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  D   F#  A   B   D   F#  A   B   D   F#  A   B  
+DRAW SLIDE OUT D   E   G   B   D   E   G   B   D   E   G   B  
+
+
+12.3d - MORTON FRASER TUNING
+
+BLOW SLIDE IN  Db  F   Ab  B   Db  F   Ab  B   Db  F   Ab  B   
+BLOW SLIDE OUT C   E   G   Bb  C   E   G   Bb  C   E   G   Bb
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  E   Gb  Bb  Db  E   Gb  Bb  Db  E   Gb  Bb  Db  
+DRAW SLIDE OUT Eb  F   A   C   Eb  F   A   C   Eb  F   A   C
+
+
+12.3e - VARIATION OF ABOVE
+
+BLOW SLIDE IN  B   Eb  Gb  A   B   Eb  Gb  A   B   Eb  Gb  A   
+BLOW SLIDE OUT C   E   G   Bb  C   E   G   Bb  C   E   G   Bb
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  D   E   Ab  B   D   E   Ab  B   D   E   Ab  B   
+DRAW SLIDE OUT Eb  F   A   C   Eb  F   A   C   Eb  F   A   C
+
+
+12.3f - BEBOP TUNING (See 5.6)
+
+BLOW SLIDE IN  C#  E#  G#  B   C#  E#  G#  B   C#  E#  G#  B
+BLOW SLIDE OUT C   E   G   Bb  C   E   G   Bb  C   E   G   Bb  
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  D#  F#  A#  B#  D#  F#  A#  B#  D#  F#  A#  B#  
+DRAW SLIDE OUT D   F   A   B   D   F   A   B   D   F   A   B   
+
+
+12.3g - BEBOP II TUNING (See 5.6a)
+
+BLOW SLIDE IN  C#  E#  G#  B   C#  E#  G#  B   C#  E#  G#  B
+BLOW SLIDE OUT C   E   G   A   C   E   G   A   C   E   G   A    
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  D#  F#  A   C   D#  F#  A   C   D#  F#  A   C
+DRAW SLIDE OUT D   F   G#  B   D   F   G#  B   D   F   G#  B     
+
+
+12.3h - TD BOOGIE TUNING (Al Smith)
+
+BLOW SLIDE IN  C   E   G   Bb  C   E   G   Bb  C   E   G   Bb
+BLOW SLIDE OUT C   E   G   A   C   E   G   A   C   E   G   A
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  Eb  F   A   C   Eb  F   A   C   Eb  F   A   C
+DRAW SLIDE OUT D   F   G   B   D   F   G   B   D   F   G   B
+
+
+12.3i - VARIATION OF CHORDOMONICA TUNING (Al Smith)
+
+BLOW SLIDE IN  C   F   A   C   C   F   A   C   C   F   A   C
+BLOW SLIDE OUT C   E   G   A   C   E   G   A   C   E   G   A
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  Eb  F#  A   C   Eb  F#  A   C   Eb  F#  A   C
+DRAW SLIDE OUT  D  F   G   B   D   F   G   B    D  F   G   B
+
+
+
+12.4 - AUGMENTED TUNING (UK PAT# 2,009,999 by Capper; UK PAT# 2,120,442 by Okumoto)
+
+BLOW SLIDE IN   C#  F   A   C#  F   A   C#  F   A   C#
+BLOW SLIDE OUT  C   E   G#  C   E   G#  C   E   G#  C
+HOLE NUMBER     1   2   3   4   5   6   7   8   9   10
+DRAW SLIDE IN   D#  G   B   D#  G   B   D#  G   B   D#
+DRAW SLIDE OUT  D   F#  A#  D   F#  A#  D   F#  A#  D
+
+
+12.4a - VARIATION OF 12.4 (UK PAT# 2,259,802 by Yeadon)
+
+BLOW SLIDE IN   D   F#  A#  D   F#  A#  D   F#  A#  D
+BLOW SLIDE OUT  C   E   G#  C   E   G#  C   E   G#  C
+HOLE NUMBER     1   2   3   4   5   6   7   8   9   10
+DRAW SLIDE IN   D#  G   B   D#  G   B   D#  G   B   D#
+DRAW SLIDE OUT  C#  F   A   C#  F   A   C   F   A   C#
+
+
+
+12.5 - DIMINISHED TUNING (UK PAT# 2,259,802 by Yeadon)
+
+BLOW SLIDE IN  D   F   Ab  B   D   F   Ab  B   D  F   Ab  B
+BLOW SLIDE OUT C#  E   G   Bb  C#  E   G   Bb  C# E   G   Bb
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  D#  F#  A   C   D#  F#  A   C   D# F#  A   C
+DRAW SLIDE OUT D   F   Ab  B   D   F   Ab  B   D  F   Ab  B
+
+
+12.5a - VARIATION OF 12.5
+
+BLOW SLIDE IN  D#  F#  A   C   D#  F#  A   C   D# F#  A   C
+BLOW SLIDE OUT C#  E   G   Bb  C#  E   G   Bb  C# E   G   Bb
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  E   G   Bb  C#  E   G   Bb  C#  E  G   Bb  C#
+DRAW SLIDE OUT D   F   Ab  B   D   F   Ab  B   D  F   Ab   B
+
+
+12.5b - VARIATION OF 12.5
+
+BLOW SLIDE IN  D  F   Ab  B   D   F   Ab  B   D   F   Ab  B
+BLOW SLIDE OUT C# E   G   Bb  C#  E   G   Bb  C#  E   G  Bb
+HOLE NUMBER    1  2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  E  G   Bb  C#  E   G   Bb  C#  E   G   Bb  C#
+DRAW SLIDE OUT D# F#  A   C   D#  F#  A   C   D#  F#  A   C
+
+
+
+12.6 - WHOLETONE TUNING
+
+BLOW SLIDE IN  C# D#  F   G   A   B   C#  D#  F   G   A   B
+BLOW SLIDE OUT C  D   E   F#  G#  A#  C   D   E   F#  G#  A#
+HOLE NUMBER    1  2   3   4   5   6   7   8   9   10  11  12
+DRAW SLIDE IN  D  E   F#  G#  A#  C   D   E   F#  G#  A#  C
+DRAW SLIDE OUT C# D#  F   G   A   B   C#  D#  F   G   A   B
+
+
+12.6a - VARIATION OF 12.6 WITH WHOLETONE SLIDE (UK PAT# 2,259,802 by Yeadon)
+
+BLOW SLIDE IN  D   E   F#  G#  A#  C   D   E   F# G#  A#   C
+BLOW SLIDE OUT C   D   E   F#  G#  A#  C   D   E  F#  G#  A#
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  D#  F   G   A   B   C#  D#  F   G   A   B  C#
+DRAW SLIDE OUT C#  D#  F   G   A   B   C#  D#  F   G   A   B
+
+
+12.6b - VARIATION OF 12.6b (Slide raises all notes by a fourth)
+
+BLOW SLIDE IN  F   G   A   B   C#  D#  F   G   A   B  C#  D#
+BLOW SLIDE OUT C   D   E   F#  G#  A#  C   D   E  F#  G#  A#
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  F#  G#  A#  C   D   E   F#  G#  A#  C   D   E 
+DRAW SLIDE OUT C#  D#  F   G   A   B   C#  D#  F   G   A   B
+
+
+12.6c - VARIATION OF 12.6b (Slide raises all notes by a fifth)
+
+BLOW SLIDE IN  G   A   B   C#  D#  F   G   A   B  C#  D#  F
+BLOW SLIDE OUT C   D   E   F#  G#  A#  C   D   E  F#  G#  A#
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  G#  A#  C   D   E   F#  G#  A#  C   D   E  F#
+DRAW SLIDE OUT C#  D#  F   G   A   B   C#  D#  F   G   A  B
+
+
+
+12.7 - QUARTERTONE CHROMATIC WITH 1/4TONE SLIDE (UK PAT# 2,259,802 by Yeadon)
+('+' = one quartertone sharp)
+
+BLOW SLIDE IN  C+  D+  E+ F#+ G#+ A#+ C+  D+  E+ F#+ G#+ A#+
+BLOW SLIDE OUT C   D   E  F#  G#  A#  C   D   E  F#  G#  A#
+HOLE NUMBER    1   2   3  4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  C#+ D#+ F+ G+  A+  B+  C#+ D#+ F+ G+  A+  B+
+DRAW SLIDE OUT C#  D#  F  G   A   B   C#  D#  F  G   A    B
+
+
+12.7a - VARIATION OF 12.7 WITH SEMITONE SLIDE (UK PAT# 2,259,802 by Yeadon)
+
+BLOW SLIDE IN  C#  D#  F  G   A   B   C#  D#  F  G   A   B
+BLOW SLIDE OUT C   D   E  F#  G#  A#  C   D   E  F#  G#  A#
+HOLE NUMBER    1   2   3  4   5   6   7   8   9  10  11 12
+DRAW SLIDE IN  C#+ D#+ F+ G+  A+  B+  C#+ D#+ F+ G+  A+  B+
+DRAW SLIDE OUT C+  D+  E+ F#+ G#+ A#+ C+  D+  E+ F#+ G#+ A#+
+
+
+12.7b -VARIATION OF 12.7 WITH 3/4TONE SLIDE (UK PAT# 2,259,802 by Yeadon)
+
+BLOW SLIDE IN  C#+ D#+ F+  G+  A+  B+  C#+ D#+ F+  G+  A+ B+
+BLOW SLIDE OUT C   D   E   F#  G#  A#  C  D   E   F# G#   A#
+HOLE NUMBER    1   2   3   4   5   6   7  8   9  10   11  12
+DRAW SLIDE IN  D+  E+  F#+ G#+ A#+ C+  D+ E+  F#+ G#+ A#+ C+
+DRAW SLIDE OUT C#  D#  F   G   A   B   C# D#  F   G   A   B
+
+
+12.7c - VARIATION OF 12.7  WITH WHOLETONE SLIDE (UK PAT# 2,259,802 by Yeadon)
+
+BLOW SLIDE IN  D   F   F#  A   A#  C#  D  F   F#  A  A#  C#  
+BLOW SLIDE OUT C   D#  E   G   G#  B   C  D#  E   G  G#  B
+HOLE NUMBER    1   2   3   4   5   6   7  8   9  10  11  12
+DRAW SLIDE IN  D+  F+  F#+ A+  A#+ C#+ D+ F+  F#+ A+ A#+ C#+  
+DRAW SLIDE OUT C+  D#+ E+  G+  G#+ B+  C+ D#+ E+  G+ G#+ B+
+
+
+
+12.8 - CHINESE TUNING (C.B. Huang)
+
+BLOW SLIDE IN  C#+ F+  G#+ C#+ C#+ F+ G#+ C#+ C#+ F+ G#+ C#+ 
+BLOW SLIDE OUT C   E   G   C   C  E   G   C   C   E   G   C
+HOLE NUMBER    1   2   3   4   5  6   7   8   9   10  11  12
+DRAW SLIDE IN  D#+ F#+ A#+ C+  D#+ F#+ A#+ C+ D#+ F#+ A#+ C+
+DRAW SLIDE OUT D   F   A   B   D   F   A   B  D   F   A   B
+
+
+
+12.9 - J.E. MURPHY TUNING (US PAT# 882575, 1908)
+
+BLOW SLIDE IN   C#  F#  A#  C#  F#  A#  C#  F#  A#  C#
+BLOW SLIDE OUT  C   E   G   C   E   G   C   E   G   C
+HOLE NUMBER     1   2   3   4   5   6   7   8   9   10  
+DRAW SLIDE IN   B   D#  G#  B   D#  G#  B   D#  G#  B
+DRAW SLIDE OUT  D   F   A   D   F   A   D   F   A   D
+
+
+12.9a - ADAPTATION OF SUGGESTED MELODEON TUNING
+
+BLOW SLIDE IN   Bb  Db  Ab  Bb  Db  Ab  Bb  Db  Ab  Bb
+BLOW SLIDE OUT  C   E   G   C   E   G   C   E   G   C 
+HOLE            1   2   3   4   5   6   7   8   9  10 
+DRAW SLIDE IN   B   Eb  Gb  B   Eb  Gb  B   Eb  Gb  B 
+DRAW SLIDE OUT  D   F   A   D   F   A   D   F   A   D 
+
+
+12.9b - SIMPLITONE CHROMATIC TUNING (Randy Goodhew 1998, but also Japanese 
+Pat# 48104319 to Kawakami Katsura, 1973)
+
+BLOW SLIDE IN   B   Eb  Ab  B   Eb  Ab  B   Eb  Ab  B    
+BLOW SLIDE OUT  C   E   G   C   E   G   C   E   G   C  
+HOLE            1   2   3   4   5   6   7   8   9  10  
+DRAW SLIDE IN   Db  F#  Bb  Db  F#  Bb  Db  F#  Bb  Db 
+DRAW SLIDE OUT  D   F   A   D   F   A   D   F   A   D  
+
+
+
+12.10 - POWER CHROMATIC (Brendan Power. Removal of outer valves allows 
+blues-type bending on all draw notes.) (See also 3.4)
+
+BLOW SLIDE IN  C#  E#  G#  A#  C#  E#  G#  A#  C#  E# G#  A#
+BLOW SLIDE OUT C   E   G   A   C   E   G   A   C   E   G   A
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  D#  G   A#  B#  D#  G   A#  B#  D#  G  A#  B#
+DRAW SLIDE OUT D   F#  A   B   D   F#  A   B   D   F#  A   B
+
+
+12.10a - VARIATION OF 12.10
+
+BLOW SLIDE IN  C#  E#  G#  G#  C#  E#  G#  G#  C#  E# G#  G#
+BLOW SLIDE OUT C   E   G   G   C   E   G   G   C   E   G   G
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  D#  G   A#  B#  D#  G   A#  B#  D#  G  A#  B#
+DRAW SLIDE OUT D   F#  A   B   D   F#  A   B   D   F#  A   B
+
+
+12.10b - VARIATION OF 12.10a (Slide raises all notes to next scale tone)
+
+BLOW SLIDE IN  D   F#  A   A   D   F#  A   A   D   F#  A   A
+BLOW SLIDE OUT C   E   G   G   C   E   G   G   C   E   G   G
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  E   G   B   C   E   G   B   C   E   G   B   C  
+DRAW SLIDE OUT D   F#  A   B   D   F#  A   B   D   F#  A   B
+
+
+
+12.11 - ORNIFRIUYJ I (c/o Richard Wientrager)
+
+BLOW SLIDE IN  B   D   F#  B   D   F#  B   D   F#  B   D  Db
+BLOW SLIDE OUT C   Eb  G   C   Eb  G   C   Eb  G   C   F  Ab
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12
+DRAW SLIDE IN  Db  Gb  Bb  Db  E   G   Bb  Db  E   G   C   F
+DRAW SLIDE OUT D   G   B   D   F   Ab  B   D   F   Ab  G   C
+
+
+12.11a - ORNIFRIUYJ II (c/o Richard Wientrager)
+
+BLOW SLIDE IN  F   Ab  C   F   Ab  C   F   Ab  C   F  Gb  A   Db  Gb  A   Db
+BLOW SLIDE OUT C   Eb  G   C   Eb  G   C   Eb  G   C  Db  E   Ab  Db  E   Ab
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16
+DRAW SLIDE IN  D   G   B   D   F   Ab  B   D   F  Ab  Eb  Ab  C   Eb  Gb  A
+DRAW SLIDE OUT G   C   E   G   Bb  Db  E   G   Bb Db  Ab  Db  F   Ab  B   F
+	
+
+
+12.12 - CEDRIC MONARCH CHORD TUNING (Les Henry)
+
+BLOW SLIDE IN  D   F   G   B   D   F   G   B   D   F   G   B  
+BLOW SLIDE OUT C   E   G   C   C   E   G   C   C   E   G   C 
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12  
+DRAW SLIDE IN  E   G   B   C#  E   G   B   C#  E   G   B   C# 
+DRAW SLIDE OUT D   F#  A   B   D   F#  A   B   D  F#   A   B 
+	
+
+
+12.13 - CONCERTINA CHROMATIC LAYOUT (Buzap)
+
+BLOW SLIDE IN  F#  C#  A#  F   D   A   F#  C#  A#  F   D   A  F#  C#  A#  F
+BLOW SLIDE OUT B   G#  D#  C   G   E   B   G#  D#  C   G   E   B  G#  D#  C
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16
+DRAW SLIDE IN  G   B   D   F#  G#  A#  G   B   D  F#  G#  A#  G   B   D   F#    
+DRAW SLIDE OUT C   A   E   C#  G#  F   C   A   E  C#  G#   F  C   A   E   C#
+
+
+
+12.14 - LeGATO TUNING (David Fairweather) (See 11.24)
+
+BLOW SLIDE IN  C#  D#  F#  G#  A#  C#  D#  F#  G#  A#  C#  D#    
+BLOW SLIDE OUT C   D   F   G   A   C   D   F   G   A   C   D  
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12  
+DRAW SLIDE IN  D#  F#  G#  A#  C#  D#  F#  G#  A#  C# D#  F#
+DRAW SLIDE OUT D   F   G   A   C   D   F   G   A   C   D   F  
+
+
+
+12.15 - TRUE CHROMATIC TUNING (Eugene Ivanov)
+
+BLOW SLIDE IN  Db  E   Ab  B   Eb  Gb  Bb  Db  F  Ab   C  Eb  
+BLOW SLIDE OUT C   Eb  G   Bb  D   F   A   C   E   G   B   D  
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12  
+DRAW SLIDE IN  D   F   A   C   E   G   B   D   Gb  A  Db   E
+DRAW SLIDE OUT Eb  Gb  Bb  Db  F   Ab  C   Eb  G  Bb   D   F  
+
+
+
+12.16 - MINOR TUNING (Vitt Elmar, German patent # DE202009012020U1)
+
+BLOW SLIDE IN  D   F   Ab  C   D   F   Ab  C   D  F   Ab  C   
+BLOW SLIDE OUT C   Eb  G   C   C   Eb  G   C   C  Eb  G   C  
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12  
+DRAW SLIDE IN  Bb  D   G   Bb  Bb  D   G   Bb  Bb D   G   Bb
+DRAW SLIDE OUT D   F   G   B   D   F   G   B   D  F   G   B
+  
+
+12.16a - TUNING FOR MEDIAEVAL MUSIC (Vitt Elmar, German patent # DE202013007505U1)
+
+BLOW SLIDE IN  C   E   A   C   E   A   C   E   A  C  
+BLOW SLIDE OUT C   E   G   C   E   G   C   E   G  C 
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10    
+DRAW SLIDE IN  B   D   G   B   D   G   B   D   G  B
+DRAW SLIDE OUT D   F   A   D   F   A   D   F   A  D
+
+
+12.16b - IMPROVED CHORD HARMONICA (Vitt Elmar, German patent # DE202014000080U1)
+
+BLOW SLIDE IN  D   F   A   B   D   F   A   B   D  F#  G#  B
+BLOW SLIDE OUT C   E   A   A   C   E   A   A   C  E   A   C#
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11  12  
+DRAW SLIDE IN  B   E   G   G   B   E   G   B   E  G   B   D 
+DRAW SLIDE OUT D   E   G#  B   D   E   G#  B   D  F   G#  B
+
+
+12.16b - CHROMATIC HARMONY HARMONICA (Vitt Elmar, German patent # DE202013007506U1)
+
+BLOW SLIDE IN  F   G#  C   C   F   G#  C   C   F  G#  C  C
+BLOW SLIDE OUT E   G   A   C#  E   G   A   C#  E  G   A  C#
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11 12  
+DRAW SLIDE IN  D#  F#  A   C   D#  F#  A   C   D# F#  A  C 
+DRAW SLIDE OUT D   F   G   B   D   F   G   B   D  F   G  B
+
+
+
+12.17 - MAJOR/DOMINANT TUNING (Okano Katsuo, Japanese Patent 5291846B1, World Patent 2014038065A1, US patent 2015179153A1)
+
+
+BLOW SLIDE IN  Db  Gb  Ab  Bb  Db  Gb  Ab  Bb  Db Gb  Ab Bb
+BLOW SLIDE OUT C   E   G   Bb  C   E   G   Bb  C  E   G  Bb
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11 12  
+DRAW SLIDE IN  Eb  F   A   C   Eb  F   A   C   Eb F   A  C 
+DRAW SLIDE OUT D   F   G   B   D   F   G   B   D  F   G  B
+
+
+12.17a - MINOR TUNING (Okano Katsuo, Japanese Patent 5291846B1, World Patent 2014038065A1, US patent 2015179153A1)
+
+BLOW SLIDE IN  C#  D#  G#  A#  C#  D#  G#  A#  C# D#  G# A#
+BLOW SLIDE OUT A   C   E   F#  A   C   E   F#  A  C   E  F#
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11 12  
+DRAW SLIDE IN  C   D   F   A   C   D   F   A   C  D   F  A
+DRAW SLIDE OUT B   D   E   G   B   D   E   G   B  D   E  G  
+
+
+12.17b - HARMONIC MINOR TUNING (Okano Katsuo, Japanese Patent 5291846B1, World Patent 2014038065A1, US patent 2015179153A1)
+
+BLOW SLIDE IN  C#  D#  F#  A#  C#  D#  F#  A#  C# D#  F# A# 
+BLOW SLIDE OUT A   C   E   G   A   C   E   G   A  C   E  G
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11 12  
+DRAW SLIDE IN  C   D   F   A   C   D   F   A   C  D   F  A
+DRAW SLIDE OUT B   D   E   G#  B   D   E   G#  B  D   E  G#  
+
+
+12.17c - MAJOR/HARMONIC MINOR (Okano Katsuo, Japanese Patent 5291846B1, World Patent 2014038065A1, US patent 2015179153A1)
+
+BLOW SLIDE IN  C   D   F   A   C   D   F   A   C  D   F  A
+BLOW SLIDE OUT A   C   E   G   A   C   E   G   A  C   E  G
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11 12  
+DRAW SLIDE IN  B   D   F   G   B   D   F   G   B  D   F  G 
+DRAW SLIDE OUT B   D   E   G#  B   D   E   G#  B  D   E  G#
+
+
+
+12.18 - SUZUKI SSCH-56 
+
+BLOW SLIDE IN  E   G#  B   D   F#  A#  C#  E   Ab C   Eb Gb Bb D
+BLOW SLIDE OUT Bb  D   F   Ab	 C   E   G   Bb  D  F#  A  C  E  G#
+HOLE NUMBER    1   2   3   4   5   6   7   8   9  10  11 12 13 14
+DRAW SLIDE IN  B   D#  F#  A   C#  E#  G#  B   Eb G   Bb Db F  A
+DRAW SLIDE OUT F   A   C   Eb  G   B   D   F   A  C#  E  G  B  D#
+
+
+
+
+
+
+
+
+

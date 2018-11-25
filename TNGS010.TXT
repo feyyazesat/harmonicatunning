@@ -1,0 +1,50 @@
+MODAL REARRANGEMENTS
+
+(US PATENT #4,237,766 - MICHAEL MARSHALL)
+
+
+IONIAN MODE 1st POSITION - See 1.1
+
+
+DORIAN MODE 1st POSITION - See 2.1
+
+
+10.1 - PHRYGIAN MODE 1st position (Locrian 2nd pos; Lydian 3rd pos)
+
+BLOW  C  Eb G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  Db G  Bb Db F  Ab Bb Db F  Ab
+
+
+10.1a - VARIATION OF 10.1 
+
+BLOW  C  Eb Ab C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  Db G  Bb Db F  Ab Bb Db F  Ab
+
+
+LYDIAN MODE 1st POSITION - See 1.2
+
+
+MIXOLYDIAN MODE 1st POSITION - See 2.5
+
+
+AEOLIAN MODE 1st POSITION - See 2.6
+
+
+10.2 - LOCRIAN MODE 1st POSITION (Lydian 2nd pos; Ionian 3rd pos)
+
+BLOW  C  Eb Gb C  Eb Gb C  Eb Gb C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  Db Gb Bb Db F  Ab Bb Db F  Ab
+
+
+10.2a - VARIATION OF 10.2 
+
+BLOW  C  Eb Ab C  Eb Gb C  Eb Gb C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  Db Gb Bb Db F  Ab Bb Db F  Ab
+
+
+Other tunings may be similarly rearranged.
+

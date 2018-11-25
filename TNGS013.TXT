@@ -1,0 +1,146 @@
+This is a brief selection of tunings for double-reed diatonic harmonicas (octave and tremolo harps). Harmonicas of this type often use tunings similar to those of the single reed diatonics, but there are a few that use a rather different layout. Although these harps use pairs of reeds (tuned either to a unison or an octave), I have treated them as single notes, except where different pitches are involved.
+
+
+13.1 - TYPICAL ASIAN TREMOLO TUNING
+
+BLOW     C     E     G     C     E     G     C     E     G     C
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW  D     F     A     B     D     F     A     B     D     F     A
+
+
+13.1a - NATURAL MINOR VERSION OF 13.1
+
+BLOW     C     Eb    G     C     Eb    G     C     Eb    G     C
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW  D     F     Ab    Bb    D     F     Ab    Bb    D     F     Ab
+
+
+13.1a - HARMONIC MINOR VERSION OF 13.1
+
+BLOW     C     Eb    G     C     Eb    G     C     Eb    G     C
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW  D     F     Ab    B     D     F     Ab    B     D     F     Ab
+
+
+13.2 - GLISSANDO TUNING (As used on Tombo Glissando, etc.)
+
+BLOW  C  C# D  D# E  F  F# G  G# A A#  B  C C#  D D#  E  F F#  G G#
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW  C# D  D# E  F  F# G  G# A A#  B  C C#  D D#  E  F F#  G G#  A
+
+
+13.3 - TERZ STIMMUNG (Hohner Johnny, Seydel Hochlandsklänge)
+
+BLOW  B     D     G     B     D     G     G     B     D     G     
+BLOW  G     B     B     G     B     E     B     D     F#    B
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW     C     E     F#    A     C     E    F#     A     C     E F#
+DRAW     A     C     D     D     A     C    D      D     E     G A
+
+
+
+13.4 - TOMBO MAJOR 1 TUNING (For traditional Japanese music, by Juko Saito)
+
+BLOW     A     D     E     A     D     E     A     D     E     A
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW  B     D     E     G     B     D     E     G     B     D     E     
+
+
+13.4a - TOMBO MAJOR 2 TUNING (For traditional Japanese music, by Juko Saito)
+
+BLOW     E     G     A     C     D     E     G     A     C     D       
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW  E     F     A     B     C     E     F     A     B     C     E  
+
+
+13.4b - TOMBO MAJOR 3 TUNING (For traditional Japanese music, by Juko Saito)
+
+BLOW     D     G     A     C     D     G     A     C     D     G  
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW  D     E     A     C     D     E     A     C     D     E     A
+
+
+13.4c - TOMBO MINOR 1 TUNING (For traditional Japanese music, by Juko Saito)
+
+BLOW     A     C     E     A     C     E     A     C     E     A 
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW  B     D     F     A     B     D     F     A     B     D     F
+
+
+13.4d - TOMBO MINOR 2 TUNING (For traditional Japanese music, by Juko Saito)
+
+BLOW  E     F     A     B     C     E     F     A     B     C     E
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW     E     F#     A    C#    D     E     F#     A    C#    D     
+
+
+13.4e - TOMBO MINOR 3 TUNING (For traditional Japanese music, by Juko Saito)
+
+BLOW     A     C     E     A     C     E     A     C     E     A 
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW  B     D     E     G     B     D     E     G     B     D     E
+
+
+
+13.5 - JOHN F. STRATTON TUNING (Based on Full Concert Harp, US PAT# 364610)
+
+BLOW  C    E    G    C    E    G    C    E    G    C  
+BLOW  E    C    E    E    C    E    E    C    E    C
+HOLE  1    2    3    4    5    6    7    8    9   10 
+DRAW  D    G    B    D    F    A    B    D    F    A
+DRAW  G    D    G    G    D    F    G    G    D    F
+
+
+
+13.6a - HOME VILLAGE TUNING (Tombo Folk Song Harmonica - Juko Saito Japanese Patent 3090718U, 2002)
+
+BLOW  A     C     D     E     G     A     C     D     E     G     A     C     D     E     G 
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+DRAW     Bb    B     Eb    F    Ab    Bb     B    Eb     F    Ab    Bb     B    Eb     F    Ab  
+
+
+13.6b - ELEGANCE TUNING (Tombo Folk Song Harmonica - Juko Saito Japanese Patent 3090716U, 2002)
+
+BLOW     B     C     E     F     A     B     C     E     F     A     B     C     E     F     A        
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+DRAW  A     C#    D     E     F#    A    C#     D     E    F#     A    C#     D     E    F# 
+
+
+13.6c - ISLAND TUNING (Tombo Folk Song Harmonica - Juko Saito Japanese Patent 3090717U, 2002)
+
+BLOW     E     F     G     B     C     E     F     G     B     C     E     F     G     B     C                    
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+DRAW  D     E     F#    A     Bb    D     E    F#     A    Bb     D     E    F#     A    Bb    
+
+
+
+13.7 - EWALD GOES LAYOUT (GERMAN PAT# 278817, 1914 - Upper row all blow, lower row all draw)
+
+BLOW  x  B  B  D  D  G  G  B  B  D  D  G  G  B  B  D  D  G  G  B  B  D  D
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+DRAW  C  C  E  E  F# F# A  A  C  C  E  E F# F#  A  A  C  C  E  E F# F#  x
+
+
+
+13.8 - KAWAKAMI KATSURA MAJOR TUNING (Japanese Patent 43001592, 1965) 
+
+BLOW     C     F     A     C     F     A     C     F     A     C
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW  D     F     G     B     D     F     G     B     D     F     G
+
+
+13.8a - KAWAKAMI KATSURA MINOR TUNING I(Japanese Patent 43001592, 1965) 
+
+BLOW     A     D     F     A     D     F     A     D     F     A
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW  B     D     E     G#    B     D     E    G#     B     D     E     
+
+
+13.8b - KAWAKAMI KATSURA MINOR TUNING I(Japanese Patent S429905Y1, 1965) 
+
+BLOW     A     C     E     A     C     E     A     C     E     A 
+HOLE  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+DRAW  B     E     F     A     B     E     F     A     B     E     F
+
+
+    

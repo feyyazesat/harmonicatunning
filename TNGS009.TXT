@@ -1,0 +1,71 @@
+VERSIONS OF KRAUS TUNING
+
+9.1 - FRANZ KRAUS TUNING (GERMAN PAT#3021610) (See also 5.8)
+
+BLOW  B  D  F  A  B  D  F  A  B  D
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  C  E  G  Bb C  E  G  Bb C  E 
+
+
+9.2 - 12-HOLE VERSION OF 9.1 (1 Draw tonic) (See also 5.4)
+
+BLOW  C# E  G  B  C# E  G  B  C# E  G  B
+HOLE  1  2  3  4  5  6  7  8  9  10 11 12
+DRAW  D  F# A  C  D  F# A  C  D  F# A  C
+
+
+9.2a - INVERSION OF 9.2 (4 Draw Tonic)
+
+BLOW  C  Eb G  A  C  Eb G  A  C  Eb G  A
+HOLE  1  2  3  4  5  6  7  8  9  10 11 12
+DRAW  D  F  Ab Bb D  F  Ab Bb D  F  Ab Bb
+
+
+9.2b - 2nd INVERSION OF 9.2 (3 Draw tonic)
+
+BLOW  C  E  F# A  C  E  F# A  C  E  F# A
+HOLE  1  2  3  4  5  6  7  8  9  10 11 12
+DRAW  D  F  G  B  D  F  G  G  D  F  G  B
+
+
+9.2c - 3rd INVERSION OF 9.2 (2 Draw tonic)
+
+BLOW  D  E  G  Bb D  E  G  Bb D  E  G  Bb
+HOLE  1  2  3  4  5  6  7  8  9  10 11 12
+DRAW  Eb F  A  C  Eb F  A  C  Eb F  A  C
+
+
+9.3 - KRAUS/RICHTER HYBRID (keys of C maj, G maj)
+
+BLOW  C  E  A  C  E  F# A  C  E  F#
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  G  B  D  F  G
+
+
+9.3a - INVERSION OF 9.3 (keys of C maj, F maj)
+
+BLOW  C  F  A  D  F  A  B  D  F  A
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  E  G  C  E  G  Bb C  E  G  Bb
+
+
+9.3b - MINOR VERSION OF 9.3 (keys of GmN (Bb maj), GmH)
+
+BLOW  C  Eb A  C  Eb F# A  C  Eb F#
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  G  Bb D  F  G
+
+
+9.3c - VARIATION OF 9.3b (keys of GmN (Bb maj), F maj: bending 6 and 10 draw gives G melodic minor)
+
+BLOW  C  Eb A  C  Eb F  A  C  Eb F 
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  E  G  Bb D  E  G
+
+
+9.3d - SPANISH/KRAUS HYBRID (G7/Ab7) (See also 7.etc)
+
+BLOW   C   Eb  Ab  C   Eb  Gb  Ab  C   Eb  Gb
+HOLE   1   2   3   4   5   6   7   8   9  10
+DRAW   D   G   B   D   F   G   B   D   F   G
+

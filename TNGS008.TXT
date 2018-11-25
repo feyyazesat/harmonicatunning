@@ -1,0 +1,269 @@
+MAGIC DICK TUNINGS
+
+US PATENT 5166461 SALWICZ/BEAUREGARD (There are names for these tunings, but they are not listed in the patent document. The first few (8.1etc.) are based on the standard major tuning, optimised for playing in cross position.  The 8.2etc variations are similar to altered Solo tunings and include some variations by other people.  All of these tunings emphasise 
+the draw chord and most of them allow more draw bending capabilites. Those described as "chromatic" allow a chromatic scale using natural tones and bends (no overblows or overdraws needed). Other tunings included in the patent (augmented, diminished and spiral tunings and Melody Maker!!!) are included in other sections, as other people have had these ideas independently and in many cases previously.)
+
+
+8.1 - IM9 DRAW/IV6 BLOW (See also 3.3b)
+
+BLOW  C  E  G  C  E  G  A  C  E  G 
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F# A  B  D  F# A
+
+
+8.1a - DORIAN VERSION OF 8.1 (Im11 DRAW/IV7 BLOW) (See also 3.3d)
+BLOW  C  E  G  C  E  G  Bb C  E  G  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  A  C  D  F  A
+
+
+8.1b - DOMINANT VERSION OF 8.1 (I9 DRAW/IV7 BLOW) (BLUES BAND TUNING?)
+(See also 4.3, 5.6)
+
+BLOW  C  E  G  C  E  G  Bb C  E  G  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  A  B  D  F  A
+
+
+8.1c - VARIATION OF 8.1b (I9/#9 DRAW/IV7 BLOW) 
+
+BLOW  C  E  G  C  E  G  Bb C  E  G  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  A  Bb D  F  A
+
+
+8.1d - AEOLIAN VERSION OF 8.1 (Im11 DRAW/IVm7 BLOW) (POP BAND TUNING?) 
+(See also 3.3f; 6.2f)
+
+BLOW  C  Eb G  C  Eb G  Bb C  Eb G  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  A  C  D  F  A
+
+
+8.1e - 6ths VERSION OF 8.1 (I6/9 DRAW/IV6 BLOW)
+
+BLOW  C  E  G  C  E  G  A  C  E  A
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  G  B  D  E  A  B  D  G  B
+
+
+8.1f - CHROMATIC VERSION OF 8.1 (IM9 DRAW/IVm7 BLOW)
+
+BLOW  C  Eb G  C  Eb G  Bb C  Eb G  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F# A  B  D  F# A
+
+
+8.1g - VARIATION OF 8.1f (IM/VII7 DRAW/IVmM11 BLOW)
+
+BLOW  C  Eb G  C  Eb G  B  D  F  G
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F# A# C# E  G  Bb
+
+
+8.2 - I6 DRAW/bVII 6 BLOW (1 DRAW TONIC) (SWING BAND TUNING?) 
+(See also 5.3b and 3.4)
+
+BLOW  C  E  G  A  C  E  G  A  C  E  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  B  D  F# A  B  D  F#
+
+
+8.2a - I6 DRAW/bVII6 BLOW (VERSION OF 8.2 - EASIER TO MAKE FROM REGULAR 
+RICHTER HARP. 1 DRAW TONIC)
+
+BLOW  C  E  G  C  E  G  A  C  E  G  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  D  F# A  B  D  F# A
+
+
+8.2b - MINOR VERSION OF 8.2a (Im7 DRAW/bVII7 BLOW - 1 DRAW TONIC. Not 
+listed in patent document.) (See also 1.1a, 11.5, 11.6)
+
+BLOW  C  E  G  C  E  G  Bb C  E  G  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F  A  D  F  A  C  D  F  A
+
+
+8.2c - INVERSION OF 8.2 (2 DRAW TONIC)
+
+BLOW  D  F  A  C  D  F  A  C  D  F
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  E  G  B  D  E  G  B  D  E  G
+
+
+8.2d - 2nd INVERSION OF 8.2 (3 DRAW TONIC)
+
+BLOW  Eb F  Ab C  Eb F  Ab C  Eb F
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  F  G  Bb D  F  G  Bb D  F  G
+
+
+8.2e - 3rd INVERSION OF 8.2  (4 DRAW TONIC)
+
+BLOW  E  G  A  C  E  G  A  C  E  G  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  F# A  B  D  F# A  B  D  F# A
+
+
+8.2f - DORIAN VERSION OF 8.2 (Im6 DRAW/bVII 7/6 BLOW. Not included in patent 
+documents) (See 5.3a)
+
+BLOW  C  E  G  A  C  E  G  A  C  E  
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  F  A  B  D  F  A  B  D  F
+
+
+8.2g - AEOLIAN VERSION OF 8.2 (Im7 DRAW/bVII7 BLOW, or taking tonic as  
+2 draw, I6/V7 -  BIG BAND TUNING?)
+
+BLOW  C  E  G  Bb C  E  G  Bb C  E  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F  A  C  D  F  A  C  D  F  
+
+
+8.2h - 6/7 VERSION OF 8.2 (I6/7 DRAW/bVII6/7 BLOW)
+
+BLOW  C  E  G  A  C  E  G  Bb C  E  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  B  D  F# A  C  D  F#
+
+
+8.2i - TRIAD VERSION OFf 8.2 (IM DRAW/bVIIM BLOW)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  F# A  D  F# A  D  F# A  D
+
+
+8.2j - CHROMATIC VERSION OF 8.2 (I6 DRAW/VI6 BLOW)
+
+BLOW  B  D# F# G# B  D# F# G# B  D#
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  B  D  F# A  B  D  F#
+
+
+8.2k - CHROMATIC VERSION OFf 8.2 (I7 DRAW/bII7 BLOW) (See also 7.etc)
+
+BLOW  Db Eb G  Bb Db Eb G  Bb Db Eb 
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  C  D  F# A  C  D  F#
+
+
+8.2l - TEMPTATION TUNING (I6 DRAW/bVIIm7 BLOW, CHROMATIC - Not included in 
+patent document, named by David Fairweather) (See also 7.etc and 9.4d)
+
+BLOW  C  Eb G  Bb C  Eb G  Bb C  Eb
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  B  D  F# A  B  D  F#
+
+
+8.2m - SPANISH/SPIRAL VERSION OF 8.2 (I13/bII13, CHROMATIC) 
+(See also 6.etc; 7.etc)
+
+BLOW  C  Eb G  Bb Db F  Ab C  Eb G  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  C  E  G  B  D  F# A
+
+
+8.2n - INVERTED TEMPTATION I (CHROMATIC)
+
+BLOW  Eb F  Ab C  Eb F  Ab C  Eb F 
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  E  G  B  D  E  G  B  D  E  G
+
+
+8.2o - INVERTED TEMPTATION II (CHROMATIC)
+
+BLOW  D# F# G# B  D# F# G# B  D# F#
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  F  G  Bb D  F  G  Bb D  F  G  
+
+
+8.2p - OPTIMIZED BLUES TUNING (IM7/bVIIm7 BLOW, CHROMATIC - Not included in 
+patent document, devised by Heiner Krüger) (See also 8.2l, 7.etc and 9.4d)
+
+BLOW  C  Eb G  Bb C  Eb G  Bb C  Eb
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  B  D  F# A  B  D  F#
+
+
+
+8.3 - I7(b9) DRAW/bII7 BLOW, Chromatic, 2 Draw Tonic
+ (See also 7.etc; 9.etc)
+
+BLOW  C  Eb Ab C  Eb Gb Ab C  Eb Gb
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  G  B  D  F  Ab
+
+
+8.3a - VARIATION OF 8.3 (I6 DRAW/bVI7 BLOW)
+
+BLOW  Db Eb G  Bb Db Eb G  Bb Db Eb
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  E  G  B  D  E  G
+
+
+8.3b - VARIATION OF 8.3 (Blow bends in holes 7, 8, 9, 10)
+
+BLOW  C  Eb G  C  Eb G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F# A  Bb Db F  Ab
+
+
+8.4 - Im9 DRAW/bVII9 (FOLK MINOR (?) TUNING) (See also 2.1a)
+
+BLOW  C  F  A  C  Eb G  A  C  Eb G
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  A  Bb D  F  A
+
+
+8.5 - VARIATION OF 8.2a (I9 DRAW/IIm7, 1 DRAW TONIC: ALL DRAW BENDS)
+
+BLOW  B  E  G  B  E  G  B  D  E  G  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  D  F# A  C  E  F# A
+
+
+8.5a - VARIATION OF 8.5 (I7 DRAW/IIm BLOW, blow bends on 7, 8, 9, 10)
+
+BLOW  B  E  G  B  E  G  B  E  G  B
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  D  F# A  C  D  F# A
+
+
+8.5b - VARIATION OF 8.5a (I7 DRAW/IIm BLOW, 3 DRAW TONIC)
+
+BLOW  C  Eb G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F  Bb D  F  Ab Bb D  F  Ab
+
+
+8.5c - IONIAN VERSION OF 8.5 (IM9 Draw/IIm7 Blow, not included in patent document.)
+
+BLOW  B  E  G  B  E  G  B  D  E  G  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  D  F# A  C# E  F# A
+
+
+8.5d - DORIAN VERSION OF 8.5 (Im9 Draw/IIm7 Blow, not included in patent document.)
+
+BLOW  B  E  G  B  E  G  B  D  E  G  
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  F  A  D  F  A  C  E  F  A
+
+
+8.5e - AEOLIAN VERSION OF 8.5 (Im9 Draw/IIm7b5 Blow, not included in patent document.)
+
+BLOW  Bb E  G  Bb E  G  Bb D  E  G  
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  F  A  D  F  A  C  E  F  A
+
+
+8.5f - HARMONIC MINOR VERSION OF 8.5 (ImM9 Draw/IIm7b5 Blow, not included in patent document.)
+
+BLOW  Bb E  G  Bb E  G  Bb D  E  G  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F  A  D  F  A  C# E  F  A
+
+

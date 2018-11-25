@@ -1,0 +1,72 @@
+SPANISH AND RELATED TUNINGS
+
+(See also 8.2k; 8.2l; 8.2m; 8.3; 11.7)
+
+7.1 - SPANISH BLOW/DRAW BENDING (Hermann Demmler)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  Eb F# B  Eb F# A  Bb Db F  Gb
+
+
+7.1a - VARIATION OF 7.1 (Hermann Demmler - As advertised by Hohner)
+
+BLOW  A  C  F  A  C  F  A  C  F  A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  B  E  G# B  D  Eb Gb Bb Db Gb
+
+
+
+7.2 - SPANISH DRAW BENDING (Hermann Demmler)
+
+BLOW  F  A  C  F  A  C  F  A  C  F
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  G# B  E  G# B  E  G# B  E  G#
+
+
+7.2a - VARIATION OF 7.2 (Hermann Demmler - As advertised by Hohner)
+
+BLOW  A  C  F  A  C  F  A  C  F  A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  B  E  G# B  E  G# B  E  G# B
+
+
+7.2b - POSSIBLE BLUES VARIATION OF 7.2 (See also 5.2)
+
+BLOW  E  A  C# E  A  C# E  A  C# E
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  G# B  E  G# B  E  G# B  E  G#
+
+
+7.2c - AUGMENTED SPANISH TUNING (Variation of 7.2)
+
+BLOW  F  A  C# F  A  C# F  A  C# F
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  G# C  E  G# C  E  G# C  E  G#
+
+
+7.2c - AUGMENTED SPANISH TUNING WITH CHROMATIC WHOLETONE
+EXTENSION (16-hole-stretch-"diatonic", chromatic
+bending c/o Buzap)
+
+BLOW  E  G# C  E  G# C  E  G# C  E  G# A# C  D  E  F#
+HOLE  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16
+DRAW  G  B  D# G  B  D# G  B  D# G  A  B  C# D# F  G
+
+
+7.2c - VARIATION OF 7.2c (c/o Buzap)
+
+BLOW  E  G# C  E  G# C  E  G# C  E  F# G# A# C  D  E
+HOLE  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16
+DRAW  G  B  D# G  B  D# G  B  D# F  G  A  B  C# D# F
+
+
+
+7.3 - CROCODILE TUNING (Benjamin Klein)
+
+BLOW  C  E  Ab C# E  G  C  E  Ab  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  Eb G  C  Eb F# A  Bb Db F   A
+
+
+

@@ -1,0 +1,30 @@
+JOE FILISKO TUNINGS
+
+4.1 - BLUES TUNING #1 (See also 5.2)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  G  B  D  F  F  A
+
+
+4.2 - BLUES TUNING #2 (See also 3.5)
+
+BLOW  C  E  G  Bb C  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  A  B  D  F  A
+
+
+4.3 - BLUES TUNING #3 (See also 8.1b)
+
+BLOW  C  E  G  C  E  G  Bb E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  A  C  D  F  A
+
+
+4.4 - CHORD TUNING (** notes an octave lower than usual)
+
+BLOW  C  E  G  C  E  G  Bb *Bb*D***F*
+HOLE  1  2  3  4  5  6  7   8  9  10
+DRAW  D  G  B  D  F  A  C  *D**F#**A*
+
+

@@ -1,0 +1,231 @@
+SPIRAL TUNINGS
+
+
+6.1 - BASIC SPIRAL TUNING (Mike Photis, but covered by German patent 9404910, granted in 1994 to Laurenz Wiskott)
+
+BLOW  C  E  G  B  D  F  A  C  E  G
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  F  A  C  E  G  B  D  F  A
+
+
+
+6.2 - SEMI-SPIRAL TUNING (Mixolydian mode in cross position)
+
+BLOW  C  E  G  C  E  G  B  D  F  A
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  G  B  D  F  A  C  E  G  B
+
+
+6.2a - VARIATION OF 6.2 (See also 3.6)
+
+BLOW  C  E  A  C  E  G  B  D  F  A
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  G  B  D  F  A  C  E  G  C
+
+
+6.2b - IONIAN CROSS VERSION OF 6.2 (See also 1.2)
+
+BLOW  C  E  G  C  E  G  B  D  F# A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F# A  C  E  G  B
+
+
+6.2c - VARIATION OF ABOVE (See also 1.3)
+
+BLOW  C  E  A  C  E  G  B  D  F# A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F# A  C  E  G  B
+
+
+6.2d - DORIAN CROSS VERSION OF 6.2 (See also 2.5; 8.1a)
+
+BLOW  C  E  G  C  E  G  Bb D  F  A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  A  C  E  G  Bb
+
+
+6.2e - VARIATION OF 6.2d (See also 2.5a)
+
+BLOW  C  E  A  C  E  G  Bb D  F  A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  A  C  E  G  C
+
+
+6.2f - NATURAL MINOR CROSS VERSION OF 6.2 (See also 2.1; 8.1d)
+
+BLOW  C  Eb G  C  Eb G  Bb D  F  A
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  G  Bb D  F  A  C  Eb G  Bb
+
+
+6.2g - VARIATION OF 6.2f (See also 2.1a)
+
+BLOW  C  Eb A  C  Eb G  Bb D  F  A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  A  C  Eb G  C
+
+
+6.2h - HARMONIC MINOR CROSS VERSION OF 6.2 (See also 2.4)
+
+BLOW  C  Eb G  C  Eb G  Bb D  F# A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F# A  C  Eb G  Bb
+
+
+6.2i - VARIATION OF 6.2h (See also 2.4a)
+
+BLOW  C  Eb A  C  Eb G  Bb D  F# A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F# A  C  Eb G  C
+
+
+
+6.3 - INVERSION OF 6.1 (tonic: 4 blow, 7 draw)
+
+BLOW  D  F  A  C  E  G  B  D  F# A
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  E  G  B  D  F  A  C  E  G  B
+
+
+6.3a - INVERSION OF 6.1 (tonic: 3 draw, 7 blow)
+
+BLOW  D  F  A  C  Eb G  Bb D  F  A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  Eb G  Bb D  F  A  C  Eb G  Bb
+
+
+6.3b - INVERSION OF 6.1 (tonic: 3 blow, 6 draw, 10 blow)
+
+BLOW  C  E  G  B  D  F# A  C  E  G
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  C  E  G  B  D  F# A
+
+
+6.3c - INVERSION OF 6.1 (tonic: 2 draw, 6 blow, 9 draw)
+
+BLOW  D  F# A  C  E  G  B  D  F# A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  E  G  B  D  F# A  C  E  G  B
+
+
+6.3d - INVERSION OF 6.1 (tonic: 2 blow, 5 draw, 9 blow)
+
+BLOW  D  F  A  C  E  G  Bb D  F  A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  E  G  Bb D  F  A  C  E  G  Bb 
+
+
+6.3e - INVERSION OF 6.1 (tonic: 2 blow, 5 draw, 9 blow) (See also 6.4)
+
+BLOW  D  F  Ab C  Eb G  Bb D  F  Ab
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  Eb G  Bb D  F  Ab C  Eb G  Bb
+
+
+6.3f - INVERSION OF 6.1 (tonic: 1 draw, 5 blow, 8 draw)
+
+BLOW  D  F# A  C# E  G  B  D  F# A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  E  G  B  D  F# A  C# E  G  B 
+
+
+
+6.4 - HARMONIC MINOR VERSION OF 6.1 (Inversions similar to 6.3 are 
+possible, work them out for yourself!)
+
+BLOW  C  Eb G  B  D  F  Ab C  Eb G
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F  Ab C  Eb G  B  D  F  Ab
+
+
+
+6.5 - NON-DIATONIC SPIRAL (Chromatic without needing overblows. Adjacent notes alternating major and minor thirds - many 
+variations possible.)
+
+BLOW  C  Eb G  Bb D  F  A  C  E  G
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  C# E  G# B  D# F# A#
+
+
+
+6.6 - DELTA TUNING (Gary Clayton - Spiral tuning up to hole 7)
+
+BLOW  C# E  G  B  D  F# A  D  F# A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A  C# E  G  B  C# E  G
+
+
+6.7 - TRUE CHROMATIC TUNING (Eugene Ivanov) (See 12.15)
+
+BLOW  C  Eb G  Bb D  F  A  C  E  G
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F  A  C  E  G  B  D  Gb A
+
+
+6.7a - TRUE HARMONIC TUNING (Eugene Ivanov, but see 6.5)
+
+BLOW  C  Eb G  Bb D  F  A  C  E  G   
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  Gb A  Db E  Ab B  Eb Gb Bb
+
+
+
+6.8 - KNIRI TUNING 221 (Kniri Knaus)       
+
+BLOW  C  E  G  Bb D  F  Ab C  Eb Gb  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F  A  C  Eb G  Bb Db F  Ab
+
+
+6.8a - KNIRI TUNING 1222 (Kniri Knaus)       
+
+BLOW  C  Eb G  Bb D  F  A  C  E  G
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  Db F  Ab C Eb  G  Bb D  F  A
+
+
+6.8b - RICHTER/KNIRI TUNING (Standard Major Diatonic holes 1-5, 221 scale
+holes 6-10)(Kniri Knaus)       
+
+BLOW  C  E  G  C  E  G  Bb D  F  Ab  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  A  C  Eb G  Bb
+
+
+6.8c - KNIRI TUNING 222 (Kniri Knaus)       
+
+BLOW C  Eb G  Bb Db F  Ab B  Eb Gb
+HOLE 1  2  3  4  5  6  7  8  9  10   
+DRAW D  F  A  C  Eb G  Bb Db F  Ab         
+
+
+6.8d - SPIRAL BLUES (Kniri Knaus - not actually a Spiral Tuning)       
+
+BLOW C  E  G  Bb C  E  G  Bb C  E
+HOLE 1  2  3  4  5  6  7  8  9  10   
+DRAW Eb Gb Ab C  Eb Gb Ab C  Eb Gb         
+
+
+6.8e - SPIRAL BLUES ALT (Kniri Knaus - also not actually a Spiral Tuning)       
+
+BLOW C  Eb Gb Ab C  Eb Gb Ab C  Eb
+HOLE 1  2  3  4  5  6  7  8  9  10   
+DRAW C  E  G  Bb C  E  G  Bb C  E         
+
+
+
+6.9 - JOHNNIEHARP CIRCULAR TUNING (John Panchuk - see also 6.2c)
+
+BLOW  B  E  A  C  E  G  B  D  F# A
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  G  B  D  F# A  C  E  G  B
+
+
+
+6.10 - DISPLACED SPIRAL (German Patent DE202015106680U1, published 2016, by Bernd Koller)
+
+BLOW  D  F  A  C  E  G  B  D  F  A
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  G  B  D  F  A  C  E  G  B  D  
+
+

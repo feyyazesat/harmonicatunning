@@ -1,0 +1,121 @@
+MINOR TUNINGS
+
+2.1 - NATURAL MINOR
+
+BLOW  C  Eb G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  A  Bb D  F  A
+
+
+2.1a - VARIATION OF 2.1 
+
+BLOW  C  Eb A  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  A  Bb D  F  A
+
+
+2.1b - VARIATION OF 2.1 (Courtesy of didi neumann)
+
+BLOW   C  Eb G  C  Eb G  C  Eb G  C
+HOLE   1  2  3  4  5  6  7  8  9  10
+DRAW   D  F  Bb D  F  A  Bb D  F  A
+
+
+2.1c - VARIATION OF 2.1 (Courtesy of didi neumann)
+
+BLOW   C  Eb G  C  Eb G  Bb Eb  G  C
+HOLE   1  2  3  4  5  6  7  8   9  10
+DRAW   D  F  Bb D  F  A  C  D   F  A 
+
+
+2.2 - WILL SCARLETT TUNING (See also 1.3)
+
+BLOW  C  E  A  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  E  G  B  D  F# A  B  D  F# A
+
+
+2.2a - VARIATION OF 2.2
+
+BLOW  C  E  A  C  E  G  C  E  G  B
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  E  G  B  D  F# A  B  D  F# A
+
+
+2.3 - HARMONIC MINOR
+
+BLOW  C  Eb G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  Ab B  D  F  Ab
+
+
+
+2.4 - HARMONIC MINOR CROSS 
+
+BLOW  C  Eb G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F# A  Bb D  F# A
+
+
+2.4a - VARIATION OF 2.4
+
+BLOW  C  Eb A  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  G  Bb D  F# A  Bb D  F# A
+
+
+12.4b - GYPSY MINOR TUNING (Andreas Duwe)
+
+BLOW  C# Eb G  C# Eb G  C# Eb G  C#
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F# A  Bb D  F# G
+
+ 
+2.5 - DORIAN CROSS
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  A  Bb D  F  A
+
+
+2.5a - VARIATION OF 2.5
+
+BLOW  C  E  A  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  A  Bb D  F  A
+
+
+2.5b - JAZZ MINOR (ASCENDING MELODIC MINOR) CROSS
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F# A  Bb D  F# A
+
+
+2.5b - VARIATION OF 2.5b
+
+BLOW  C  E  A  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F# A  Bb D  F# A
+
+
+2.6 - NATURAL MINOR STRAIGHT
+
+BLOW  C  Eb G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  Ab Bb D  F  Ab
+
+
+2.7 - JAZZ MINOR (MELODIC MINOR ASCENDING) STRAIGHT (Blow plate from 2.1 or 2.3, draw plate from 1.1)
+
+BLOW  C  Eb G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  A  B  D  F  A
+
+
+2.7a - VARIATION OF 2.7
+
+BLOW  C  Eb A  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  A  B  D  F  A
+

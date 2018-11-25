@@ -1,0 +1,152 @@
+JI CHORDS AND THEIR DEVIATION FROM 12TET
+
+The following is a list of chords that one might use to construct a 
+harmonica tuning and how their just intonation forms deviate from 12 
+tone equal temperament.  They are all listed with C as the root note 
+and the other notes have a plus or minus figure measured in cents, 
+showing how much they differ from 12TET (as measured by a chromatic 
+tuner, for example).  If you set the root so many cents above or below 
+12TET concert pitch, the you simply add or subtract the same number of 
+cents from the remaining notes. As always, the fine tuning should be 
+checked by ear, but these figures should at least get you into the ball 
+park, as they say.
+
+
+
+MAJOR TRIAD
+
+C	E	G
+0     -14   +2
+
+
+
+MINOR TRIAD (5-Limit)
+
+C	Eb	G
+0     +16   +2
+
+
+
+MINOR TRIAD (19-limit version - may be more suitable in some contexts; 
+difference tones converge on the root of the chord; much closer to 
+12TET than the 5-limit version, but also much less consonant)
+
+C	Eb	G
+0     -3	+2
+
+
+DOMINANT SEVENTH (Pure Version - 7-Limit)
+
+C	E	G	Bb
+0     -14   +2    -31
+
+(Note - this is the natural harmonic version of a dominant seventh 
+chord. It produces a smooth, beat-free sound which is great when used 
+as a I chord, but may sound a little too smooth when used as a V chord. 
+You may prefer to use the following version of this chord, which 
+produces a little more dissonance. )
+
+
+DOMINANT SEVENTH ("Classical" Version - 5-Limit)
+
+C	E	G	Bb
+0     -14   +2    -4
+
+
+
+DOMINANT NINTH
+
+C	E	G	Bb	D
+0     -14   +2    -31   +4
+
+
+
+DOMINANT SEVENTH FLAT NINTH
+
+C	E	G	Bb	Db
+0     -14   +2    -31   +10
+
+
+
+MAJOR SIXTH
+
+C	E	G	A
+0     -14   +2    -16
+
+
+
+MAJOR SEVENTH
+
+C	E	G	B
+0     -14   +2    -12
+
+
+
+MAJOR NINTH
+
+C	E	G	B	D
+0     -14   +2    -12   +4
+
+
+
+MINOR SIXTH (17-limit Version)
+
+C	Eb	G	A
+0     +16   +2    +19
+
+
+MINOR SIXTH (19-limit version)
+
+C	Eb	G	A
+0     -3	+2	+6
+
+
+
+MINOR SEVENTH
+
+C	Eb	G	Bb
+0     +16   +2    +18
+
+
+
+MINOR NINTH
+
+C	Eb	G	Bb	D
+0     +16   +2    +18   +4
+
+
+
+MINOR MAJOR NINTH
+
+C	Eb	G	B	D
+0     +16   +2    -12   +4
+
+
+
+DIMINISHED SEVENTH (In most cases, this chord is probably best 
+tuned in 12TET, but for certain purposes, a Just version might be 
+useful)
+
+C	Eb	Gb	Bbb
+0     +16   -17   +18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

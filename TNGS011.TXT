@@ -1,0 +1,532 @@
+ODDITIES
+
+11.1 - AUGMENTED/WHOLETONE TUNINGS (Magic Dick thought of these too!! 
+ALSO - UK PAT# 2,009,999, JAPANESE PAT# 54092828, HONG KONG PAT# 30287, DUTCH PAT# 7904280, FRENCH PAT# 2423022, GERMANY PAT#2852824 by Capper Styles, 1979; and UK PAT# 2120442, JAPANESE PAT# 58146293, GERMAN PAT# 3310780 by Okumoto, 1983)
+
+BLOW  F  A  C# F  A  C# F  A  C# F  
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  G  B  D# G  B  D# G  B  D# G  (Based on Spanish Draw Bending Tuning)
+
+
+11.1a - VARIATION OF 11.1 (Courtesy of Steve Jennings - Easier to make 
+from standard major diatonic)
+
+BLOW  C  E  G# C  E  G# C  E  G# C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F# A# D  F# A# A# D  F# A#
+
+
+11.2 - CHROMATIC WHOLETONE TUNING (US PAT# 2,511,302, by H.M. 
+Stevenson, 1950; UK PAT# 2,009,999, JAPANESE PAT# 54092828, HONG KONG PAT# 30287, DUTCH PAT# 7904280, FRENCH PAT# 2423022, GERMANY PAT# 2852824 by Capper Styles, 1979; FRENCH PAT# 1224525, BELGIAN PAT# 590787 by Lauble 1960)
+
+BLOW  C  D  E  F# G# A# C  D  E  F#
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  C# D# F  G  A  B  C# D# F  G
+
+
+11.2a - FULL GLISSANDO CHROMATIC WHOLETONE TUNING (c/o Buzap)
+
+BLOW  C  D  E  F# G# A# C  D  E  F#
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D# F  G  A  B  C# D# F  G  A
+
+
+11.2b - INVERTED CHROMATIC WHOLETONE TUNING (c/o Buzap)
+
+BLOW  C  D  E  F# G# A# C  D  E  F#
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  B  C# D# F  G  A  B  C# D# F 
+
+
+11.2c - VARIATION OF 11.2b (c/o Buzap)
+
+BLOW  C# D# F  G  A  B  C# D# F  G
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  C  D  E  F# G# A# C  D  E  F#
+
+
+
+11.3 - C# OVER C TUNING (US PAT# 2,276,501, by E.F. Manieri, 1941)
+
+BLOW  C  D  E  F  G  A  B  C  D  E 
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  C# D# E# F# G# A# B# C# D# E#
+
+
+
+11.4 - COMBINATION TUNING (Winslow T. Yerxa)
+
+BLOW  C  F  A  C  F  A  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  E  G  C  E  G  Bb B  D  F  A
+
+
+11.4a - MINOR VERSION OF 11.4
+
+BLOW  C  F  Ab C  F  Ab C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  Eb G  C  Eb G  Bb B  D  F  Ab
+
+
+11.4b - VARIATION OF 11.4 (See also 3.2)
+
+BLOW  C  E  G  C  E  G  B  D  G  C (or B)
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  G  B  D  F  F# A  C  E  A
+
+
+
+11.5 - DO IT - DALE'S OPEN IRISH TUNING (Dale King) (Tremolo version 
+described in Chinese Pat# 2335230 to Liu, 1999)
+
+(See also 1.1a, 8.2b, 11.6)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  F  A  D  F  A  B  D  F  A
+
+
+11.5a - VARIATION OF 11.5 
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  F# A  D  F# A  B  D  F# A
+
+
+11.5b - PG1 (Pete Golding)
+
+BLOW   C  E  G  C  E  G  C  E  G  C
+HOLE   1  2  3  4  5  6  7  8  9 10
+DRAW   D  F  A  D  F  A  Bb D  F  A
+
+
+11.5c - PG2 (Pete Golding - also devised by Rick Epping)
+
+BLOW   C  E  G  C  E  G  C  E  G  C
+HOLE   1  2  3  4  5  6  7  8  9 10
+DRAW   D  F  Bb D  F  A  Bb D  F  A
+
+
+
+11.6 - OCTAVES TUNING (Mike Photis) (See also 1.1a, 8.2b, 11.5)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  F  A  D  F  A  D  F  A  D
+
+
+11.6a - VARIATION OF 11.6 (Tremolo version described in Chinese
+Pat#2335230 to Liu, 1999)
+
+BLOW  C  E  A  C  E  A  C  E  A  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  G  B  D  G  B  D  G  B  D
+
+
+
+11.7 - "SO WHAT" TUNING (See also 6.etc; 7.etc)
+
+BLOW  C  Eb Gb Bb Db F  Ab C  Eb Gb
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F  A  C  E  G  B  D  F  A 
+
+
+
+11.8 - BLOW BEND TUNING (C OVER Dm)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  A  D  F  A  D  F  A  D  F  A
+
+
+11.8a - VARIATION OF 11.8 (C OVER F)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  A  C  F  A  C  F  A  C  F  A
+
+
+11.8b - VARIATION OF 11.8 (C OVER Bb)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  Bb D  F  Bb D  F  Bb D  F  Bb
+
+
+
+11.9 - HYBRID OF 1.1 AND 5.8
+
+BLOW  C  E  G  C  E  F  A  C  E  F
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F# G  B  D  F# G
+
+
+11.9a - DORIAN VERSION OF 11.9
+
+BLOW  C  E  G  C  E  F  A  C  E  F
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  G  Bb D  F  G
+
+
+11.9b - MIXOLYDIAN VERSION OF 11.9
+
+BLOW  C  E  G  C  E  F  A  C  E  F
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  G  B  D  F  G
+
+
+11.9c - AEOLIAN VERSION OF 11.9
+
+BLOW  C  Eb G  C  Eb F  A  C  Eb F
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  G  Bb D  F  G
+
+
+11.9d - HARMONIC MINOR VERSION OF 11.9
+
+BLOW  C  Eb G  C  Eb F  A  C  Eb  F
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F# G  Bb D  F# G
+
+
+
+11.10 - FLAT TENTH TUNING
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  A  Bb D  F  A
+
+
+11.10a - RAISED NINTH TUNING
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  Bb B  D  F  A
+
+
+
+11.11 - I/V/II (c/o G)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  G  B  D  D  F# A
+
+
+11.11a - I/V/ii (c/o G)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  G  B  D  D  F  A
+
+
+11.11b - i/v (c/o G)
+
+
+BLOW  C  Eb G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  G  Bb D  G  Bb D 
+
+
+11.11c - i/v/ii (c/o G)
+
+BLOW  C  Eb G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  G  Bb D  D  F  A
+
+
+11.11d - I/V/ii VARIATION (c/o G)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  D  F  A  D  F  A
+
+
+11.11e - i/v/ii VARIATION (c/o G)
+
+BLOW  C  Eb G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  D  F  A  D  F  A
+
+
+
+11.12 - IRISH SEMI-SPIRAL - MIXOLYDIAN VERSION
+
+BLOW  C  F  A  C  E  G  B  D  F  A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  A  C  E  G  B
+
+
+11.12a - DORIAN VERSION OF 11.12
+
+BLOW  C  F  A  C  E  G  Bb D  F  A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  A  C  E  G  Bb
+
+
+11.12b - AEOLIAN VERSION OF 11.12
+
+BLOW  C  F  A  C  Eb G  Bb D  F  A
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  F  A  C  Eb G  Bb
+
+
+
+
+11.13 - SAWMILL, OR MINOR PENTATONIC TUNING (Rick Epping?)
+
+BLOW  C  D  G  C  D  G  C  D  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  F  A  D  F  A  D  F  A  D
+
+
+11.13a - INVERSION OF 11.13 (Familiar cross harp feel)
+
+BLOW  C  F  G  C  F  G  C  F  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  Bb D  G  Bb D  G  Bb D
+
+
+11.14 - MAJOR PENTATONIC TUNING (Asus/Bm)
+
+BLOW   B  D  F# B  D  F# B  D  F# B 
+HOLE   1  2  3  4  5  6  7  8  9  10
+DRAW   D  E  A  D  E  A  D  E  A  D
+
+
+11.14a - INVERSION OF 11.14 
+
+BLOW  B  E  G  B  E  G  B  E  G  B
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  A  D  G  A  D  G  A  D
+
+
+
+11.15 - BLUES SCALE TUNING (Eb/Csus)
+
+BLOW   C  F  G  C  F  G  C  F  G  C
+HOLE   1  2  3  4  5  6  7  8  9  10
+DRAW   Eb Gb Bb Eb Gb Bb Eb Gb Bb Eb 
+
+
+
+11.16 - DIATONIC VERSION OF 12.3d (C7/F7)
+
+BLOW   C  E  G  Bb C  E  G  Bb C  E 
+HOLE   1  2  3  4  5  6  7  8  9 10
+DRAW   Eb F  A  C  Eb F  A  C  Eb F
+
+
+
+11.17 - "CHROTONIC I" (Dale King)
+
+BLOW   C  F  G  C  Eb F# C  Eb G  C
+HOLE   1  2  3  4  5  6  7  8  9 10
+DRAW   Eb F# Bb D  F  G  Bb D  F  A
+
+
+11.17a - "CHROTONIC II" (Dale King)
+
+BLOW   C  F  G  C  Eb G  C  Eb G  C
+HOLE   1  2  3  4  5  6  7  8  9 10
+DRAW   Eb G  Bb D  F  Bb B  D  F  A
+
+
+
+11.18 - "CHROMATIC PENTATONIC" (Probably requires reed replacement 
+skills)
+
+BLOW   C  D  F  G  A  C  D  F  G  A
+HOLE   1  2  3  4  5  6  7  8  9 10
+DRAW   D  F  G  A  C  D  F  G  A  C
+
+
+
+11.19 - PENTATONIC SPIRAL (Probably requires reed replacement skills)
+
+BLOW   G  B  E  A  D  G  B  E  A  D  
+HOLE   1  2  3  4  5  6  7  8  9 10
+DRAW   A  D  G  B  E  A  D  G  B  E  
+
+
+11.19a - VARIATION OF ABOVE (Probably requires reed replacement skills)
+
+BLOW   G  C  F  A  D  G  C  F  A  D
+HOLE   1  2  3  4  5  6  7  8  9 10
+DRAW   A  D  G  C  F  A  D  G  C  F
+
+
+
+11.20 - ZED TUNING (From Zed - German Harp player)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  G  B  D  G  A  B  D  F  A
+
+
+11.21 - BLUES TUNING (Lee Oskar)
+
+BLOW  Bb E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  F  G  B  D  F  A  B  D  F  A
+
+
+11.21a - VARIATION OF 11.23 (Lee Oskar)
+
+BLOW  Bb E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  F  G  B  D  F  A  Bb D  F  A
+
+
+11.21b - VARIATION OF 11.23 (Lee Oskar)
+
+BLOW  Bb E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  F  G  B  D  F# A  Bb D  F  A
+
+
+11.21c - VARIATION OF 11.23 (Lee Oskar)
+
+BLOW  Bb E  A  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  F  G  B  D  F# A  Bb D  F  A
+
+
+
+11.22 - ED COOGAN TUNING I (CHROMATIC)
+
+BLOW  C  E  G  C  E  G  C# E  G# C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  Eb G  B  Eb F# Bb B  D  F  A
+
+
+11.22a - ED COOGAN TUNING II (CHROMATIC)
+
+BLOW  C  Eb Gb A  C  Eb Ab B  D  F
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  F  Ab B  D  F  Gb A  C  Eb
+
+
+
+11.23 - RONALD BREWIS TUNING (UK PAT# 2301697 - GIVEN AS 14 HOLE 
+TUNING IN PATENT DOC) (CHROMATIC)
+
+BLOW  A  C  E  G  G  B  D  D  F  A
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  B  D  D  F  A  A  C  E  G  G
+
+
+11.23a - HARMONIC MINOR VERSION OF 11.25 (CHROMATIC)
+
+BLOW  A  C  E  G# B  D  D  F  A  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  B  D  D  F  A  C  E  G# B  D
+
+
+
+11.24 - FOURKEY TUNING (Andy Newton) (CHROMATIC)
+
+BLOW  C  D  E  G  A  C  D  E  G  A
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  C# Eb F# Ab B  C# Eb F# Ab B
+
+
+11.24a - VARIATION OF 11.24 (Roger Myerson) (CHROMATIC)
+
+BLOW  C  Eb F  G  Bb C  Eb F  G Bb
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  E  F# A  B  D  E  F# A  C 
+
+11.24b - PENTABENDER TUNING (Roger Myerson) (CHROMATIC)
+
+BLOW  C  D  F  G  A  C  D  F  G  A
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  E  G  A  B  D  E  G  A  B
+
+
+
+11.25 - SAWMILL TUNING (Rick Epping)
+
+BLOW  C  D  G  C  D  G  C  D  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  F  A  D  F  A  D  F  A  D
+
+
+11.25a - VARIATION OF 11.25 
+
+BLOW  C  F  G  C  F  G  F  D  F  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  D  G  Bb D  G  Bb D  G  Bb D
+
+
+
+11.26 - BAGPIPE DRONE TUNING (James Conway)
+
+BLOW  C  G  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  C  G  Bb D  F  A  Bb D  F  A
+
+
+11.26a - MAJOR VERSION OF 11.26
+
+BLOW  C  G  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  C  G  Bb D  F  A  Bb D  F  A
+
+
+11.26b - NATURAL MINOR VERSION OF 11.26
+
+BLOW  C  G  G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  C  G  Bb D  F  Ab Bb D  F  Ab
+
+
+11.26c - DORIAN VERSION OF 11.26
+
+BLOW  C  G  G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  C  G  Bb D  F  A  Bb D  F  A
+
+
+11.26d - HARMONIC MINOR VERSION OF 11.26
+
+BLOW  C  G  G  C  Eb G  C  Eb G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW  C  G  B  D  F  Ab B  D  F  Ab
+
+
+
+11.27 - FOLK HARMONICA TUNING (Kong Wenzhong, Chinese patent 202512869U)
+
+BLOW  C  E  G  C  E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9 10
+DRAW	B  D	G  B	D  G	B  D  G  B
+
+
+
+11.28 - EASY CHROMATIC TUNING (Konstantin Kolesnichenko - combination of standard major diatonic and diminished)
+ 
+BLOW  C  E  G  C  Eb F# A  C  Eb F#
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  D  G  B  D  F  Ab B  D  F  Ab
+
+
+
+11.29 - FRANK LORRMANN TUNING I (German Patent 202007014926)
+
+BLOW  E  G  C  C	E  G  C  E  G  C
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  F  A  B  D  F  A	B  D  F  A
+
+
+11.29a - FRANK LORRMANN TUNING II (German Patent 202007014926)
+
+BLOW  D  G	B  D	D  G  B  D  G  B
+HOLE  1  2  3  4  5  6  7  8  9  10
+DRAW  F# A  C  E	F# A  C  E  F# A
+
+
+
+
+
+
+
